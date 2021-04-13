@@ -1,4 +1,4 @@
-#About TimexGrafo project
+# About TimexGrafo project
 The project implements different functionalities, mostly regarding typical web store funcionalities. Some of which are:
 -cart implementation
 -cookies
