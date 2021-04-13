@@ -1,0 +1,290 @@
+﻿@model TimexGrafo.ViewModels.IndexViewModel
+@{
+    ViewData["Title"] = "";
+}
+@*<div id="carouselExampleIndicators" class="carousel slide carousel-fade " data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner col-xs-12">
+            <div class="carousel-item active">
+                <img class="d-block w-100" src="~/lib/images/8.JPG" alt="First slide">
+
+
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="~/lib/images/10.JPG" alt="Second slide">
+
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="~/lib/images/6.JPG" alt="Third slide">
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+
+    </div>*@
+
+@section OutsideContainer{
+    @*<div class="masthead text-white text-center" id="indexBanner">
+            <div class="container d-flex align-items-center flex-column">
+                <img class="masthead-avatar mb-5 border border-dark rounded rounded-circle" src="~/lib/images/logo.JPG" alt="logo" data-aos="fade-up" data-aos-delay="200"/>
+                <h1 class="masthead-heading text-uppercase mb-0 text-white" data-aos="fade-up" data-aos-delay="250">TIMEX GRAFO</h1>
+                <div class="divider-custom divider-light" data-aos="fade-up" data-aos-delay="300">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon">
+                        <i class="fab fa-mixer text-danger"></i>
+                    </div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <p data-aos="fade-up" data-aos-delay="320" class="masthead-subheading font-weight-light mb-0 text-uppercase">kancelarijski materijal - školski pribor - proizvodnja registratora</p>
+                <br />
+            </div>
+        </div>*@
+    <div id="indexCarousel" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="d-block" src="lib/images/Slajder/1.jpg" alt="Third slide">
+                <div class="carousel-caption">
+                    <div class="row mb-5">
+                        <div class="col-md-4 offset-md-4">
+                            <img class="masthead-avatar border border-dark rounded rounded-circle w-75" src="~/lib/images/logo.JPG" alt="logo" data-aos="fade-up" data-aos-delay="200" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 offset-md-4 text-justify text-white">
+                            <h5 class="font-weight-lighter text-center text-white">Timex Grafo d.o.o. je preduzeće koje se bavi proizvodnjom, uvozom i prodajom kancelarijskog materijala i školskog pribora.  </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img class="d-block" src="lib/images/Slajder/2.jpg" alt="First slide">
+                <div class="carousel-caption pt-5">
+                    <h2 class="h2 carousel-caption-title text-white pt-5">Istražite našu onlajn kolekciju</h2>
+                    <div class="divider-custom" data-aos="fade-down" data-aos-delay="150">
+                        <div class="divider-custom-line bg-white"></div>
+                        <div class="divider-custom-icon"><i class="fab fa-mixer text-danger"></i></div>
+                        <div class="divider-custom-line bg-white"></div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-4 offset-md-4 text-center">
+                            <h5 class="font-weight-lighter text-center text-white">Bilo da želite da opremite svoju kancelariju ili radnu sobu, <strong>Timex Grafo</strong> vam nudi široku paletu kancelarijskog materijala i školskog pribora za svačije potrebe. </h5>
+                        </div>
+                    </div>
+                    <a href="/Shop" class="btn btn-dark text-light carousel-caption-link">Saznaj više</a>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img class="d-block" src="lib/images/Slajder/3.jpg" alt="First slide">
+                <div class="carousel-caption pt-5">
+                    <h2 class="h2 carousel-caption-title text-white pt-5">Kompletna ponuda naših proizvoda</h2>
+                    <div class="divider-custom" data-aos="fade-down" data-aos-delay="150">
+                        <div class="divider-custom-line bg-white"></div>
+                        <div class="divider-custom-icon"><i class="fab fa-mixer text-danger"></i></div>
+                        <div class="divider-custom-line bg-white"></div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-4 offset-md-4 text-center">
+                            <h5 class="font-weight-lighter text-center text-white">Naša kompletna ponuda predstavlja kolekciju svih artikala raspoloživih za veleprodaju. Pratite sledeći link kako biste saznali više.</h5>
+                        </div>
+                    </div>
+                    <a href="/Veleprodaja" class="btn btn-dark text-light carousel-caption-link">Saznaj više</a>
+                </div>
+            </div>
+
+        </div>
+        <a class="carousel-control-prev" href="#indexCarousel" onclick="$('#indexCarousel').carousel('prev')" role="button" data-slide="prev" id="indexCarousel-prev">
+            <span class="carousel-control-prev-icon"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#indexCarousel" onclick="$('#indexCarousel').carousel('next')" role="button" data-slide="next" id="indexCarousel-next">
+            <span class="carousel-control-next-icon"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+    @*<div class="container page-section pt-4">
+            <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0" data-aos="fade-up" data-aos-delay="100">Timex Grafo onlajn ponuda</h2>
+            <div class="divider-custom" data-aos="fade-down" data-aos-delay="150">
+                <div class="divider-custom-line"></div>
+                <div class="divider-custom-icon"><i class="fab fa-mixer text-danger"></i></div>
+                <div class="divider-custom-line"></div>
+            </div>
+            <div class="col-12" data-aos="fade-up" data-aos-delay="200">
+                <ul class="list-unstyled list-group">
+                    @foreach (var group in Model.ShopGroups)
+                    {
+                        <li class="list-group-item rounded-0 list-group-item-action mt-3 border border-top-0 border-left border-right-0 border-bottom" data-toggle="collapse" href="#collapse-group-@group.Id" role="button" aria-expanded="false" aria-controls="collapse-group-@group.Id">@group.Title</li>
+                        <li class="pl-3">
+                            <ul class="list-group collapse list-unstyled" id="collapse-group-@group.Id">
+                                @foreach (var subGroup in group.SubGroups)
+                                {
+                                    <li class="list-group-item list-group-item-action border border-top-0 border-left-0 border-right-0 border-bottom" data-toggle="collapse" href="#collapse-subgroup-@subGroup.Id" role="button" aria-expanded="false" aria-controls="collapse-subgroup-@subGroup.Id">@subGroup.Title</li>
+                                    <li class="list-group-item-action">
+                                        <ul class="list-group collapse list-unstyled" id="collapse-subgroup-@subGroup.Id">
+                                            @foreach (var item in subGroup.Items)
+                                            {
+                                                <li class="list-group-item list-group-item-action border border-0"><a class="text-info" href="/Shop/@item.Id">@item.Title</a></li>
+
+                                            }
+                                        </ul>
+                                    </li>
+                                }
+                            </ul>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+        <div class="container page-section pt-4">
+            <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0" data-aos="fade-up" data-aos-delay="100">Kompletna ponuda</h2>
+            <div class="divider-custom" data-aos="fade-down" data-aos-delay="150">
+                <div class="divider-custom-line"></div>
+                <div class="divider-custom-icon"><i class="fab fa-mixer text-danger"></i></div>
+                <div class="divider-custom-line"></div>
+            </div>
+            <div class="col-12" data-aos="fade-up" data-aos-delay="200">
+                <ul class="list-unstyled list-group">
+                    @foreach (var group in Model.Groups)
+                    {
+                        <li class="list-group-item rounded-0 list-group-item-action mt-3 border border-top-0 border-left border-right-0 border-bottom" data-toggle="collapse" href="#collapse-group-@group.Id" role="button" aria-expanded="false" aria-controls="collapse-group-@group.Id">@group.Title</li>
+                        <li class="pl-3">
+                            <ul class="list-group collapse list-unstyled" id="collapse-group-@group.Id">
+                                @foreach (var subGroup in group.SubGroups)
+                                {
+                                    <li class="list-group-item list-group-item-action border border-top-0 border-left-0 border-right-0 border-bottom" data-toggle="collapse" href="#collapse-subgroup-@subGroup.Id" role="button" aria-expanded="false" aria-controls="collapse-subgroup-@subGroup.Id">@subGroup.Title</li>
+                                    <li class="list-group-item-action">
+                                        <ul class="list-group collapse list-unstyled" id="collapse-subgroup-@subGroup.Id">
+                                            @foreach (var item in subGroup.Items)
+                                            {
+                                                <li class="list-group-item list-group-item-action border border-0"><a class="text-info" href="/Veleprodaja/@item.Id">@item.Title</a></li>
+
+                                            }
+                                        </ul>
+                                    </li>
+                                }
+                            </ul>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>*@
+
+
+
+    <!-- 1st section -->
+    <section class="row tm-section m-0 p-0" data-aos="fade-up" data-aos-delay="300">
+        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 p-0">
+            <div class="tm-flex-center p-5 tm-bg-color-primary tm-section-min-h">
+                <h1 class="tm-text-color-white tm-site-name">Timex Grafo D.O.O.</h1>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6" data-aos="fade-up" data-aos-delay="350">
+            <div class="tm-flex-center p-5">
+                <h4 class="tm-text-color-gray font-weight-lighter text-center">
+                    - Kancelarijski materijal - <br/> - školski pribor - <br/> - proizvodnja registratora -
+                </h4>
+            </div>
+        </div>
+    </section>
+
+    <!-- 2nd section -->
+    <section class="row tm-section tm-col-md-reverse m-0 p-0" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+            <div class="tm-flex-center p-5">
+                <div class="tm-md-flex-center">
+                    <h2 class="tm-text-color-secondary mb-4">Priča o nama</h2>
+                    <p class="mb-4 d-inline"><b>TIMEX GRAFO d.o.o.</b> je preduzeće koje se bavi proizvodnjom, uvozom i prodajom kancelarijskog materijala i školskog pribora. Preduzeće postoji od 1999 godine i koncipirano je kao veleprodaja školskog i kancelarijskog materijala.<span id="dots1">..</span></p>
+
+                    <span id="more1"> Pored veleprodaje bavimo se i proizvodnjom školskih svezaka, blokova i blokovske robe. Od 2006 godine, kupovinom novih i savremenih mašina za izradu registratora Timex Grafo se za vrlo kratko vreme svrstao među vodeće proizvođače registratora u zemlji.</span>
+                    <br />
+                    <button onclick="ReadMore()" class="btn btn-secondary float-lg-right tm-md-align-center mt-2" id="MyBtn1"> Pročitaj više</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 p-0">
+            <div class="tm-flex-center p-5 tm-bg-color-primary">
+                <div class="tm-max-w-400 tm-flex-center tm-flex-col">
+                    <img src="~/lib/images/6.JPG" alt="Image" class="rounded-circle mb-4 w-100">
+                    <p class="tm-text-color-white small tm-font-thin mb-0">Kancelarija u Beogradu se nalazi u Dobropoljskoj ulici u blizini Autokomande.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3rd Section -->
+    <section class="row tm-section tm-mb-30 m-0 p-0" data-aos="fade-down" data-aos-delay="200">
+        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 p-0 text-center">
+            <img src="~/lib/images/3.JPG" alt="Image" class="img-fluid">
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+            <div class="tm-flex-center p-5">
+                <div class="tm-flex-center tm-flex-col">
+                    <h2 class="tm-align-left text-secondary">Usluge koje pružamo</h2>
+                    <p class="d-inline">
+                        Pored proizvodnje bavimo se i uvozom i izvozom. Uvoz se vrši iz Kine i sa Evropskog tržišta.
+
+                        Prozvodnja preduzeća TIMEX GRAFO se bazira na izradi školskih svezaka u mekom i tvrdom povezu, crtaćih blokova, kolaž papira i ostalih školskih artikala koji se izrađuju od papira.<span id="dots2">..</span>
+                    </p>
+                    <span id="more2">
+                        Drugi i možda još važniji deo naše proizvodnje je izrada registratora, fascikli, kartonskih kutija i ostalih proizvoda od kartona po zahtevu kupca.
+
+                        Nova proizvodna linija koja obuhvata savremene mašine omogućava visoku produktivnost u izradi ovih proizvoda.
+                    </span>
+                    <br />
+                    <button onclick="ReadMore2();" class="btn btn-secondary" id="MyBtn2">Pročitaj više</button>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+
+@section Scripts{
+    <script type="text/javascript">
+        $('#logoAfterHeader').remove();
+
+        function ReadMore() {
+            var dots1 = document.getElementById("dots1");
+            var moreText1 = document.getElementById("more1");
+            var btnText1 = document.getElementById("MyBtn1");
+
+            if (dots1.style.display === "none") {
+                dots1.style.display = "inline";
+                btnText1.innerHTML = "Pročitaj više";
+                moreText1.style.display = "none";
+            } else {
+                dots1.style.display = "none";
+                btnText1.innerHTML = "Pročitaj manje";
+                moreText1.style.display = "inline";
+            }
+
+        }
+
+
+        function ReadMore2() {
+            var dots2 = document.getElementById("dots2");
+            var moreText2 = document.getElementById("more2");
+            var btnText2 = document.getElementById("MyBtn2");
+
+            if (dots2.style.display === "none") {
+                dots2.style.display = "inline";
+                btnText2.innerHTML = "Pročitaj više";
+                moreText2.style.display = "none";
+            } else {
+                dots2.style.display = "none";
+                btnText2.innerHTML = "Pročitaj manje";
+                moreText2.style.display = "inline";
+            }
+
+        } 
+    </script>
+}

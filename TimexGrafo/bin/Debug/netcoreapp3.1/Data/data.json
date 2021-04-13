@@ -1,0 +1,3490 @@
+﻿[
+  {
+    "Image": "1",
+    "Title": "FOTOKOPIR PAPIR A4 80gr FABRIANO 3,SIRIUS,COMMUNICATOR BASIC",
+    "Type": "kom",
+    "Price": "270.00",
+    "FullPrice": "324.00",
+    "SubGroupId": "35",
+    "ItemCode": "31011"
+  },
+  {
+    "Image": "2",
+    "Title": "Registrator A4 EKO LINE 1.25mm",
+    "Type": "kom",
+    "Price": "85.00",
+    "FullPrice": "102.00",
+    "SubGroupId": "45",
+    "ItemCode": "1000000401"
+  },
+  {
+    "Image": "3",
+    "Title": "Registrator Uski A4 Mik.",
+    "Type": "kom",
+    "Price": "85.00",
+    "FullPrice": "102.00",
+    "SubGroupId": "45",
+    "ItemCode": "1000000403"
+  },
+  {
+    "Image": "4",
+    "Title": "Registrator A4 EKO LINE 1.50mm",
+    "Type": "kom",
+    "Price": "95.00",
+    "FullPrice": "114.00",
+    "SubGroupId": "45"
+  },
+  {
+    "Image": "5",
+    "Title": "Registrator A4 Lipa Mill",
+    "Type": "kom",
+    "Price": "243.00",
+    "FullPrice": "291.60",
+    "SubGroupId": "45"
+  },
+  {
+    "Image": "6",
+    "Title": "Registrator A4 Grafičar BIRO LINE",
+    "Type": "KOM",
+    "Price": "179.00",
+    "FullPrice": "214.80",
+    "SubGroupId": "45"
+  },
+  {
+    "Image": "7",
+    "Title": "Fotokopir papir A4 NAVIGATOR",
+    "Type": "ris",
+    "Price": "372.00",
+    "FullPrice": "446.40",
+    "SubGroupId": "35"
+  },
+  {
+    "Image": "8",
+    "Title": "Fotokopir papir A3 NAVIGATOR",
+    "Type": "ris",
+    "Price": "825.00",
+    "FullPrice": "990.00",
+    "SubGroupId": "35"
+  },
+  {
+    "Image": "9",
+    "Title": "Građevinski dnevnik ILIJANUM",
+    "Type": "kom",
+    "Price": "160.00",
+    "FullPrice": "192.00",
+    "SubGroupId": "2"
+  },
+  {
+    "Image": "10",
+    "Title": "Tehnička olovka FABER CASTEL 0.7",
+    "Type": "kom",
+    "Price": "190.00",
+    "FullPrice": "228.00",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "11",
+    "Title": "GEL OLOVKA PENTEL BL105",
+    "Type": "kom",
+    "Price": "125.00",
+    "FullPrice": "150.00",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "12",
+    "Title": "Tehnička olovka ROTRING TIKKY",
+    "Type": "kom",
+    "Price": "340.00",
+    "FullPrice": "408.00",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "13",
+    "Title": "Tehnička (patent) olovka PENTEL ENERGIZE X",
+    "Type": "kom",
+    "Price": "150.00",
+    "FullPrice": "180.00",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "14",
+    "Title": "Fascikla U A4 40my OPTIMA 1/100",
+    "Type": "kom",
+    "Price": "295.00",
+    "FullPrice": "354.00",
+    "SubGroupId": "44"
+  },
+  {
+    "Image": "15",
+    "Title": "Fascikla U A4 50my OPTIMA 1/100",
+    "Type": "kom",
+    "Price": "350.00",
+    "FullPrice": "420.00",
+    "SubGroupId": "44"
+  },
+  {
+    "Image": "16",
+    "Title": "Fascikla U A4 100 my OPTIMA 1/100",
+    "Type": "kom",
+    "Price": "750.00",
+    "FullPrice": "900.00",
+    "SubGroupId": "44"
+  },
+  {
+    "Image": "17",
+    "Title": "Fascikla U A4 NAVIGATOR STANDARD",
+    "Type": "kom",
+    "Price": "290.00",
+    "FullPrice": "348.00",
+    "SubGroupId": "44"
+  },
+  {
+    "Image": "18",
+    "Title": "Fascikla U A4 NAVIGATOR HEAVY DUTY",
+    "Type": "kom",
+    "Price": "550.00",
+    "FullPrice": "660.00",
+    "SubGroupId": "44"
+  },
+  {
+    "Image": "19",
+    "Title": "Marker permanent SCHNEIDER kosi/obli vrh",
+    "Type": "kom",
+    "Price": "75.00",
+    "FullPrice": "90.00",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "20",
+    "Title": "Marker permanent PENTEL kosi/obli vrh",
+    "Type": "kom",
+    "Price": "69.00",
+    "FullPrice": "82.80",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "21",
+    "Title": "Marker permanent MAPED kosi/obli vrh",
+    "Type": "kom",
+    "Price": "75.00",
+    "FullPrice": "90.00",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "22",
+    "Title": "Koverat 17.5x25.4 100gr",
+    "Type": "kom",
+    "Price": "2.90",
+    "FullPrice": "3.48",
+    "SubGroupId": "37",
+    "ItemCode": "018810196"
+  },
+  {
+    "Image": "23",
+    "Title": "Koverat 23x33 COMPETITOR A4",
+    "Type": "kom",
+    "Price": "5.50",
+    "FullPrice": "6.60",
+    "SubGroupId": "37",
+    "ItemCode": "10000010161"
+  },
+  {
+    "Image": "24",
+    "Title": "Koverta 11x23 SL",
+    "Type": "kom",
+    "Price": "1.80",
+    "FullPrice": "2.16",
+    "SubGroupId": "37",
+    "ItemCode": "1000000277"
+  },
+  {
+    "Image": "25",
+    "Title": "Koverte samolepljive A L.P. DP",
+    "Type": "kom",
+    "Price": "1.95",
+    "FullPrice": "2.34",
+    "SubGroupId": "37",
+    "ItemCode": "00863"
+  },
+  {
+    "Image": "26",
+    "Title": "Hem Olovka 1/40 LIONER",
+    "Type": "kom",
+    "Price": "6.90",
+    "FullPrice": "8.28",
+    "SubGroupId": "23",
+    "ItemCode": "10000010286"
+  },
+  {
+    "Image": "27",
+    "Title": "Hem olovka AIHAO 567 0.7",
+    "Type": "kom",
+    "Price": "24.00",
+    "FullPrice": "28.80",
+    "SubGroupId": "23",
+    "ItemCode": "10000010283"
+  },
+  {
+    "Image": "28",
+    "Title": "STABILO SWANO graf. ol. fluo",
+    "Type": "kom",
+    "Price": "29.00",
+    "FullPrice": "34.80",
+    "SubGroupId": "23",
+    "ItemCode": "0225306"
+  },
+  {
+    "Image": "29",
+    "Title": "ZD2002 gumica",
+    "Type": "kom",
+    "Price": "12.00",
+    "FullPrice": "14.40",
+    "SubGroupId": "21",
+    "ItemCode": "111131"
+  },
+  {
+    "Image": "30",
+    "Title": "Legacy gumica 1/20",
+    "Type": "kom",
+    "Price": "29.00",
+    "FullPrice": "34.80",
+    "SubGroupId": "21",
+    "ItemCode": "10000010383"
+  },
+  {
+    "Image": "31",
+    "Title": "Rezac AG1004 metalni",
+    "Type": "kom",
+    "Price": "19.00",
+    "FullPrice": "22.80",
+    "SubGroupId": "30",
+    "ItemCode": "111139"
+  },
+  {
+    "Image": "32",
+    "Title": "MB112200TC Tehnička olovka 0.7 BEIFA",
+    "Type": "kom",
+    "Price": "29.00",
+    "FullPrice": "34.80",
+    "SubGroupId": "23",
+    "ItemCode": "111114"
+  },
+  {
+    "Image": "33",
+    "Title": "Signir LINE PLUS",
+    "Type": "kom",
+    "Price": "59.00",
+    "FullPrice": "70.80",
+    "SubGroupId": "27",
+    "ItemCode": "1000000248"
+  },
+  {
+    "Image": "34",
+    "Title": "Marker CD LINEPLUS 0.6 F C P CR",
+    "Type": "kom",
+    "Price": "59.00",
+    "FullPrice": "70.80",
+    "SubGroupId": "27",
+    "ItemCode": "10000010451"
+  },
+  {
+    "Image": "35",
+    "Title": "Marker Board Lineplus",
+    "Type": "kom",
+    "Price": "59.00",
+    "FullPrice": "70.80",
+    "SubGroupId": "27",
+    "ItemCode": "10000010544"
+  },
+  {
+    "Image": "36",
+    "Title": "Marker permanent LINEPLUS",
+    "Type": "kom",
+    "Price": "59.00",
+    "FullPrice": "70.80",
+    "SubGroupId": "27",
+    "ItemCode": "013500002"
+  },
+  {
+    "Image": "37",
+    "Title": "Korektor 1/1 LIONER 20ML",
+    "Type": "kom",
+    "Price": "25.00",
+    "FullPrice": "30.00",
+    "SubGroupId": "24",
+    "ItemCode": "10000010285"
+  },
+  {
+    "Image": "38",
+    "Title": "Korektor 1/1 RETYPE",
+    "Type": "kom",
+    "Price": "39.00",
+    "FullPrice": "46.80",
+    "SubGroupId": "24",
+    "ItemCode": "1000000102"
+  },
+  {
+    "Image": "39",
+    "Title": "Jastuce Za Pecate 3hs",
+    "Type": "kom",
+    "Price": "39.00",
+    "FullPrice": "46.80",
+    "SubGroupId": "28",
+    "ItemCode": "9898019"
+  },
+  {
+    "Image": "40",
+    "Title": "Jastuce za pecat 561",
+    "Type": "kom",
+    "Price": "85.00",
+    "FullPrice": "102.00",
+    "SubGroupId": "28",
+    "ItemCode": "001900034"
+  },
+  {
+    "Image": "41",
+    "Title": "Boja Za Pecate 25ccb HORSE",
+    "Type": "kom",
+    "Price": "29.00",
+    "FullPrice": "34.80",
+    "SubGroupId": "28",
+    "ItemCode": "9898005"
+  },
+  {
+    "Image": "42",
+    "Title": "Info notes 75x75 1/100 zuti",
+    "Type": "kom",
+    "Price": "23.00",
+    "FullPrice": "27.60",
+    "SubGroupId": "33",
+    "ItemCode": "019200003"
+  },
+  {
+    "Image": "43",
+    "Title": "Info Notes 75x75 Boja",
+    "Type": "kom",
+    "Price": "25.00",
+    "FullPrice": "30.00",
+    "SubGroupId": "33",
+    "ItemCode": "019200010"
+  },
+  {
+    "Image": "44",
+    "Title": "Heftalica Hp-45 Kangaro",
+    "Type": "kom",
+    "Price": "450.00",
+    "FullPrice": "540.00",
+    "SubGroupId": "22",
+    "ItemCode": "1000000059"
+  },
+  {
+    "Image": "45",
+    "Title": "Heft masina LIONER 24/6",
+    "Type": "kom",
+    "Price": "279.00",
+    "FullPrice": "334.80",
+    "SubGroupId": "22"
+  },
+  {
+    "Image": "46",
+    "Title": "Heftalica LIONER metal 24/6",
+    "Type": "kom",
+    "Price": "390.00",
+    "FullPrice": "468.00",
+    "SubGroupId": "22",
+    "ItemCode": "10000010507"
+  },
+  {
+    "Image": "47",
+    "Title": "Municija za heft masinu 24/6 PATIO",
+    "Type": "kom",
+    "Price": "18.00",
+    "FullPrice": "21.60",
+    "SubGroupId": "22",
+    "ItemCode": "83470"
+  },
+  {
+    "Image": "48",
+    "Title": "Spajalica DUPLO 33mm",
+    "Type": "kom",
+    "Price": "19.00",
+    "FullPrice": "22.80",
+    "SubGroupId": "32",
+    "ItemCode": "10000010574"
+  },
+  {
+    "Image": "49",
+    "Title": "Kutija za spajalice magnetna",
+    "Type": "kom",
+    "Price": "39.00",
+    "FullPrice": "46.80",
+    "SubGroupId": "32",
+    "ItemCode": "25111"
+  },
+  {
+    "Image": "50",
+    "Title": "Časa za olovke 490 MAS",
+    "Type": "kom",
+    "Price": "45.00",
+    "FullPrice": "54.00",
+    "SubGroupId": "29",
+    "ItemCode": "001900049"
+  },
+  {
+    "Image": "51",
+    "Title": "Lepak za papir tecni",
+    "Type": "kom",
+    "Price": "29.00",
+    "FullPrice": "34.80",
+    "SubGroupId": "25",
+    "ItemCode": "486"
+  },
+  {
+    "Image": "52",
+    "Title": "Lepak Oho 40 gr.",
+    "Type": "kom",
+    "Price": "75.00",
+    "FullPrice": "90.00",
+    "SubGroupId": "25",
+    "ItemCode": "021100002"
+  },
+  {
+    "Image": "53",
+    "Title": "Lepak OHO 20gr.",
+    "Type": "kom",
+    "Price": "55.00",
+    "FullPrice": "66.00",
+    "SubGroupId": "25",
+    "ItemCode": "023000011"
+  },
+  {
+    "Image": "54",
+    "Title": "Selotejp 15/33",
+    "Type": "kom",
+    "Price": "12.00",
+    "FullPrice": "14.40",
+    "SubGroupId": "31",
+    "ItemCode": "811"
+  },
+  {
+    "Image": "55",
+    "Title": "Selotejp 25x66",
+    "Type": "kom",
+    "Price": "25.00",
+    "FullPrice": "30.00",
+    "SubGroupId": "31",
+    "ItemCode": "00322"
+  },
+  {
+    "Image": "56",
+    "Title": "Selotejp 48*50 CLEAR",
+    "Type": "kom",
+    "Price": "55.00",
+    "FullPrice": "66.00",
+    "SubGroupId": "31",
+    "ItemCode": "10000010109"
+  },
+  {
+    "Image": "57",
+    "Title": "Fascikla Hromo Bela",
+    "Type": "kom",
+    "Price": "12.00",
+    "FullPrice": "14.40",
+    "SubGroupId": "44",
+    "ItemCode": "070700001"
+  },
+  {
+    "Image": "58",
+    "Title": "Fascikla Hromo Boja",
+    "Type": "kom",
+    "Price": "15.00",
+    "FullPrice": "18.00",
+    "SubGroupId": "44",
+    "ItemCode": "260600022"
+  },
+  {
+    "Image": "59",
+    "Title": "Fascikla Sa Gumicom Pl",
+    "Type": "kom",
+    "Price": "49.00",
+    "FullPrice": "58.80",
+    "SubGroupId": "44",
+    "ItemCode": "1000000260"
+  },
+  {
+    "Image": "60",
+    "Title": "Fascikla sa Gumicom  700gr D",
+    "Type": "kom",
+    "Price": "77.40",
+    "FullPrice": "92.88",
+    "SubGroupId": "44",
+    "ItemCode": "10000011041"
+  },
+  {
+    "Image": "61",
+    "Title": "          FASCIKLA POLUMEHAN. SH001-010",
+    "Type": "kom",
+    "Price": "16.00",
+    "FullPrice": "19.20",
+    "SubGroupId": "44",
+    "ItemCode": "321030"
+  },
+  {
+    "Image": "62",
+    "Title": "Fascikla PAT3133",
+    "Type": "kom",
+    "Price": "23.50",
+    "FullPrice": "28.20",
+    "SubGroupId": "44",
+    "ItemCode": "3133"
+  },
+  {
+    "Image": "63",
+    "Title": "Folija U 11 R LIONER 40my",
+    "Type": "kom",
+    "Price": "1.90",
+    "FullPrice": "2.28",
+    "SubGroupId": "44",
+    "ItemCode": "023001194"
+  },
+  {
+    "Image": "64",
+    "Title": "Folija U 80mic LIONER/DUPLO",
+    "Type": "kom",
+    "Price": "4.50",
+    "FullPrice": "5.40",
+    "SubGroupId": "44",
+    "ItemCode": "018300025"
+  },
+  {
+    "Image": "65",
+    "Title": "Folija L 1/100 standard",
+    "Type": "kom",
+    "Price": "4.50",
+    "FullPrice": "5.40",
+    "SubGroupId": "44",
+    "ItemCode": "022200028"
+  },
+  {
+    "Image": "66",
+    "Title": "CD-R 700MB 50/1 LIONER",
+    "Type": "kom",
+    "Price": "19.00",
+    "FullPrice": "22.80",
+    "SubGroupId": "58",
+    "ItemCode": "014501098"
+  },
+  {
+    "Image": "67",
+    "Title": "Dvd-R LIONER 1/50",
+    "Type": "Kom",
+    "Price": "26.00",
+    "FullPrice": "31.20",
+    "SubGroupId": "58",
+    "ItemCode": "10000010250"
+  },
+  {
+    "Image": "68",
+    "Title": "Sveska A4 ILIJANUM",
+    "Type": "kom",
+    "Price": "49.00",
+    "FullPrice": "58.80",
+    "SubGroupId": "40",
+    "ItemCode": "2"
+  },
+  {
+    "Image": "69",
+    "Title": "Sveska A5 ILIJANUM",
+    "Type": "kom",
+    "Price": "25.00",
+    "FullPrice": "30.00",
+    "SubGroupId": "40",
+    "ItemCode": "220100004"
+  },
+  {
+    "Image": "70",
+    "Title": "Sveska A4 T.P. 80l",
+    "Type": "kom",
+    "Price": "120.00",
+    "FullPrice": "144.00",
+    "SubGroupId": "40",
+    "ItemCode": "310100001"
+  },
+  {
+    "Image": "71",
+    "Title": "Sveska A5 T.P. 80l",
+    "Type": "kom",
+    "Price": "65.00",
+    "FullPrice": "78.00",
+    "SubGroupId": "40",
+    "ItemCode": "216"
+  },
+  {
+    "Image": "72",
+    "Title": "IJ Rolna 80gr 297/50",
+    "Type": "kom",
+    "Price": "450.00",
+    "FullPrice": "540.00",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "73",
+    "Title": "IJ Rolna 80gr 594/50",
+    "Type": "kom",
+    "Price": "740.00",
+    "FullPrice": "888.00",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "74",
+    "Title": "Cartridge HP 950/HP 8600 crni",
+    "Type": "kom",
+    "Price": "370.00",
+    "FullPrice": "444.00",
+    "SubGroupId": "57"
+  },
+  {
+    "Image": "75",
+    "Title": "Cartridge HP 951/HP 8600 boja",
+    "Type": "kom",
+    "Price": "350.00",
+    "FullPrice": "420.00",
+    "SubGroupId": "57"
+  },
+  {
+    "Image": "76",
+    "Title": "Cartridge HP 950/HP 8600 crni",
+    "Type": "kom",
+    "Price": "3300.00",
+    "FullPrice": "3960.00",
+    "SubGroupId": "57"
+  },
+  {
+    "Image": "77",
+    "Title": "Cartridge HP 951/HP 8600 boja",
+    "Type": "kom",
+    "Price": "2750.00",
+    "FullPrice": "3300.00",
+    "SubGroupId": "57"
+  },
+  {
+    "Image": "78",
+    "Title": "CARTRIDGE HP 650 BLK",
+    "Type": "kom",
+    "Price": "1427.15",
+    "FullPrice": "1712.58",
+    "SubGroupId": "57"
+  },
+  {
+    "Image": "79",
+    "Title": "CARTRIDGE HP 650 color",
+    "Type": "kom",
+    "Price": "1522.00",
+    "FullPrice": "1826.40",
+    "SubGroupId": "57"
+  },
+  {
+    "Image": "80",
+    "Title": "Toner HP LJ 1010/Q2612",
+    "Type": "kom",
+    "Price": "1387.50",
+    "FullPrice": "1665.00",
+    "SubGroupId": "57"
+  },
+  {
+    "Image": "81",
+    "Title": "Toner HP LJ 435/436/278/283",
+    "Type": "kom",
+    "Price": "948.00",
+    "FullPrice": "1137.60",
+    "SubGroupId": "57"
+  },
+  {
+    "Image": "82",
+    "Title": "Koverte AIRSOFT 3 BRAON",
+    "Type": "kom",
+    "Price": "11.80",
+    "FullPrice": "14.16",
+    "SubGroupId": "37"
+  },
+  {
+    "Image": "83",
+    "Title": "Koverte AIRSOFT 4 BRAON",
+    "Type": "kom",
+    "Price": "15.40",
+    "FullPrice": "18.48",
+    "SubGroupId": "37"
+  },
+  {
+    "Image": "84",
+    "Title": "Koverte AIRSOFT 5 BRAON",
+    "Type": "kom",
+    "Price": "21.50",
+    "FullPrice": "25.80",
+    "SubGroupId": "37"
+  },
+  {
+    "Image": "85",
+    "Title": "Koverte AIRSOFT 8 BRAON",
+    "Type": "kom",
+    "Price": "26.00",
+    "FullPrice": "31.20",
+    "SubGroupId": "37"
+  },
+  {
+    "Image": "86",
+    "Title": "Koverte AIRSOFT 9 BRAON",
+    "Type": "kom",
+    "Price": "37.20",
+    "FullPrice": "44.64",
+    "SubGroupId": "37"
+  },
+  {
+    "Image": "87",
+    "Title": "Koverte AIRSOFT 10 BRAON",
+    "Type": "kom",
+    "Price": "42.90",
+    "FullPrice": "51.48",
+    "SubGroupId": "37"
+  },
+  {
+    "Image": "88",
+    "Title": "Giljotina za papir Fusion A4 ",
+    "Type": "kom",
+    "Price": "6120.00",
+    "FullPrice": "7344.00",
+    "SubGroupId": "20"
+  },
+  {
+    "Image": "89",
+    "Title": "Giljotina za papir Fusion A3 ",
+    "Type": "kom",
+    "Price": "8030.00",
+    "FullPrice": "9636.00",
+    "SubGroupId": "20"
+  },
+  {
+    "Image": "90",
+    "Title": "Giljotina za papir Strellar A4",
+    "Type": "kom",
+    "Price": "17400.00",
+    "FullPrice": "20880.00",
+    "SubGroupId": "20"
+  },
+  {
+    "Image": "91",
+    "Title": "Giljotina za papir Stellar A3 ",
+    "Type": "kom",
+    "Price": "24750.00",
+    "FullPrice": "29700.00",
+    "SubGroupId": "20"
+  },
+  {
+    "Image": "92",
+    "Title": "Korektor u olovci 7ml RETYPE",
+    "Type": "kom",
+    "Price": "105.00",
+    "FullPrice": "126.00",
+    "SubGroupId": "24"
+  },
+  {
+    "Image": "93",
+    "Title": "Korektor u olovci 7ml KORES",
+    "Type": "kom",
+    "Price": "95.00",
+    "FullPrice": "114.00",
+    "SubGroupId": "24"
+  },
+  {
+    "Image": "94",
+    "Title": "Korektor u olovci 7ml PAPERMATE",
+    "Type": "kom",
+    "Price": "179.00",
+    "FullPrice": "214.80",
+    "SubGroupId": "24"
+  },
+  {
+    "Image": "95",
+    "Title": "Korektor traka 4.2x8m RETYPE",
+    "Type": "kom",
+    "Price": "119.00",
+    "FullPrice": "142.80",
+    "SubGroupId": "24"
+  },
+  {
+    "Image": "96",
+    "Title": "Korektor traka 4.2x8m OPTIMA",
+    "Type": "kom",
+    "Price": "105.00",
+    "FullPrice": "126.00",
+    "SubGroupId": "24"
+  },
+  {
+    "Image": "97",
+    "Title": "Pregradni karton 225x297mix 1/100",
+    "Type": "kom",
+    "Price": "690.00",
+    "FullPrice": "828.00",
+    "SubGroupId": "39"
+  },
+  {
+    "Image": "98",
+    "Title": "Pregradni karton 10.5x24 krem ",
+    "Type": "kom",
+    "Price": "270.00",
+    "FullPrice": "324.00",
+    "SubGroupId": "39"
+  },
+  {
+    "Image": "99",
+    "Title": "Marker STAEDLER kosi/okrugli",
+    "Type": "kom",
+    "Price": "80.40",
+    "FullPrice": "96.48",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "100",
+    "Title": "Flomaster STABILO POINT 1/6",
+    "Type": "kom",
+    "Price": "397.00",
+    "FullPrice": "476.40",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "101",
+    "Title": "Flomaster 0.4 MAPED 1/4 ",
+    "Type": "kom",
+    "Price": "275.00",
+    "FullPrice": "330.00",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "102",
+    "Title": "Flomaster 0.4 MAPED 1/10",
+    "Type": "kom",
+    "Price": "650.00",
+    "FullPrice": "780.00",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "103",
+    "Title": "Marker BIC kosi/okrugli PLAVI, CRNI, CRVENI",
+    "Type": "kom",
+    "Price": "99.00",
+    "FullPrice": "118.80",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "104",
+    "Title": "TEXT MARKER  1/4 STAEDLER",
+    "Type": "kom",
+    "Price": "540.00",
+    "FullPrice": "648.00",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "105",
+    "Title": "TEXT MARKER  1/4 optima",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "106",
+    "Title": "TEXT MARKER  1/4 MAPED",
+    "Type": "kom",
+    "Price": "304.80",
+    "FullPrice": "365.76",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "107",
+    "Title": "TEXT MARKER  1/4 LINE PLUS",
+    "Type": "kom",
+    "Price": "276.00",
+    "FullPrice": "331.20",
+    "SubGroupId": "27"
+  },
+  {
+    "Image": "108",
+    "Title": "Gumica STAEDLER B30",
+    "Type": "kom",
+    "Price": "47.60",
+    "FullPrice": "57.12",
+    "SubGroupId": "21"
+  },
+  {
+    "Image": "109",
+    "Title": "Gumica MAPED TECHNICS 300",
+    "Type": "kom",
+    "Price": "18.00",
+    "FullPrice": "21.60",
+    "SubGroupId": "21"
+  },
+  {
+    "Image": "110",
+    "Title": "Gumica MAPED TECHNICS 600",
+    "Type": "kom",
+    "Price": "39.00",
+    "FullPrice": "46.80",
+    "SubGroupId": "21"
+  },
+  {
+    "Image": "111",
+    "Title": "USB FLASH 32 GB",
+    "Type": "kom",
+    "Price": "780.00",
+    "FullPrice": "936.00",
+    "SubGroupId": "59"
+  },
+  {
+    "Image": "112",
+    "Title": "USB FLASH 64 GB",
+    "Type": "kom",
+    "Price": "1290.00",
+    "FullPrice": "1548.00",
+    "SubGroupId": "59"
+  },
+  {
+    "Image": "113",
+    "Title": "Mine GRAFITNE 0.5 1/12 STAEDLER",
+    "Type": "kom",
+    "Price": "81.00",
+    "FullPrice": "97.20",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "114",
+    "Title": "Mine grafitne 0.5 ROTRING 1/24 AKCIJA !",
+    "Type": "kom",
+    "Price": "65.80",
+    "FullPrice": "78.96",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "115",
+    "Title": "Mine grafitne 0.5 ROTRING 1/12",
+    "Type": "kom",
+    "Price": "121.50",
+    "FullPrice": "145.80",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "116",
+    "Title": "Mine grafitne 0.5 PENTEL 1/12",
+    "Type": "kom",
+    "Price": "75.60",
+    "FullPrice": "90.72",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "117",
+    "Title": "Olovka roler pisi brisi PILOT FRICTION",
+    "Type": "kom",
+    "Price": "229.00",
+    "FullPrice": "274.80",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "118",
+    "Title": "Olovka roler pisi brisi PAPERMATE",
+    "Type": "kom",
+    "Price": "199.00",
+    "FullPrice": "238.80",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "119",
+    "Title": "Polica za dokumenta zicana 1/3",
+    "Type": "kom",
+    "Price": "699.00",
+    "FullPrice": "838.80",
+    "SubGroupId": "29"
+  },
+  {
+    "Image": "120",
+    "Title": "Hemijska olovka WINNING 2001",
+    "Type": "kom",
+    "Price": "15.20",
+    "FullPrice": "18.24",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "121",
+    "Title": "Hemijska olovka STABILO MARATHON",
+    "Type": "kom",
+    "Price": "70.00",
+    "FullPrice": "84.00",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "122",
+    "Title": "Hemijska olovka NANOSLICK",
+    "Type": "kom",
+    "Price": "49.50",
+    "FullPrice": "59.40",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "123",
+    "Title": "Fascikla hromo karton bela",
+    "Type": "kom",
+    "Price": "12.00",
+    "FullPrice": "14.40",
+    "SubGroupId": "44"
+  },
+  {
+    "Image": "124",
+    "Title": "Fascikla hromo karton boja",
+    "Type": "kom",
+    "Price": "16.00",
+    "FullPrice": "19.20",
+    "SubGroupId": "44"
+  },
+  {
+    "Image": "125",
+    "Title": "Fascikla sa mehanizmom",
+    "Type": "kom",
+    "Price": "22.50",
+    "FullPrice": "27.00",
+    "SubGroupId": "44"
+  },
+  {
+    "Image": "126",
+    "Title": "Boja za pecate TRODAT",
+    "Type": "kom",
+    "Price": "210.00",
+    "FullPrice": "252.00",
+    "SubGroupId": "28"
+  },
+  {
+    "Image": "127",
+    "Title": "Heftalica 24/6 KANGARO 435",
+    "Type": "kom",
+    "Price": "769.00",
+    "FullPrice": "922.80",
+    "SubGroupId": "22"
+  },
+  {
+    "Image": "128",
+    "Title": "Heftalica KANGARO HP-45",
+    "Type": "kom",
+    "Price": "450.00",
+    "FullPrice": "540.00",
+    "SubGroupId": "22"
+  },
+  {
+    "Image": "129",
+    "Title": "Municija za heft masinu 24/6 KANGARO",
+    "Type": "kom",
+    "Price": "27.50",
+    "FullPrice": "33.00",
+    "SubGroupId": "22"
+  },
+  {
+    "Image": "130",
+    "Title": "Municija za heft masinu 10 KANGARO",
+    "Type": "kom",
+    "Price": "25.50",
+    "FullPrice": "30.60",
+    "SubGroupId": "22"
+  },
+  {
+    "Image": "131",
+    "Title": "Obracunski list gradjevinske knjige",
+    "Type": "kom",
+    "Price": "169.20",
+    "FullPrice": "203.04",
+    "SubGroupId": "17"
+  },
+  {
+    "Image": "132",
+    "Title": "Heftalica KANGARO HP 10",
+    "Type": "kom",
+    "Price": "420.00",
+    "FullPrice": "504.00",
+    "SubGroupId": "22"
+  },
+  {
+    "Image": "133",
+    "Title": "Maped green makaze 21 cm",
+    "Type": "kom",
+    "Price": "142.60",
+    "FullPrice": "171.12",
+    "SubGroupId": "26"
+  },
+  {
+    "Image": "134",
+    "Title": "Makaze 21 cm no name",
+    "Type": "kom",
+    "Price": "90.00",
+    "FullPrice": "108.00",
+    "SubGroupId": "26"
+  },
+  {
+    "Image": "135",
+    "Title": "Mesecna knjiga zarada karnet",
+    "Type": "kom",
+    "Price": "120.00",
+    "FullPrice": "144.00",
+    "SubGroupId": "38"
+  },
+  {
+    "Image": "136",
+    "Title": "Građevinski dnevnik ",
+    "Type": "kom",
+    "Price": "155.00",
+    "FullPrice": "186.00",
+    "SubGroupId": "17"
+  },
+  {
+    "Image": "137",
+    "Title": "Knjiga inspekcije za gradjevinarstvo",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "38"
+  },
+  {
+    "Image": "138",
+    "Title": "Page marker NEON 15X50 1/5",
+    "Type": "kom",
+    "Price": "25.00",
+    "FullPrice": "30.00",
+    "SubGroupId": "33"
+  },
+  {
+    "Image": "139",
+    "Title": "STICKY NOTES SAMOLEPLJIVI BLOKCIC 75X75 ZUTI",
+    "Type": "kom",
+    "Price": "29.00",
+    "FullPrice": "34.80",
+    "SubGroupId": "36"
+  },
+  {
+    "Image": "140",
+    "Title": "Samolepljivi blokcic MIX BOJE OPTIMA NEON",
+    "Type": "kom",
+    "Price": "190.00",
+    "FullPrice": "228.00",
+    "SubGroupId": "33"
+  },
+  {
+    "Image": "141",
+    "Title": "Samolepljivi blokcic MIX BOJE OPTIMA PASTEL",
+    "Type": "kom",
+    "Price": "147.00",
+    "FullPrice": "176.40",
+    "SubGroupId": "33"
+  },
+  {
+    "Image": "142",
+    "Title": "BLOK PAPIR (PUNJENJE ZA KOCKU) 83X83mm MIX BOJE",
+    "Type": "kom",
+    "Price": "180.00",
+    "FullPrice": "216.00",
+    "SubGroupId": "36"
+  },
+  {
+    "Image": "143",
+    "Title": "Sveska A4 T.P. dikto/karo DIORAMA",
+    "Type": "kom",
+    "Price": "235.00",
+    "FullPrice": "282.00",
+    "SubGroupId": "40"
+  },
+  {
+    "Image": "144",
+    "Title": "SVESKA A5 T.P. 80l dikto/karo DIORAMA",
+    "Type": "kom",
+    "Price": "125.00",
+    "FullPrice": "150.00",
+    "SubGroupId": "40"
+  },
+  {
+    "Image": "145",
+    "Title": "Sveska A6 T.P. DIORAMA",
+    "Type": "kom",
+    "Price": "84.90",
+    "FullPrice": "101.88",
+    "SubGroupId": "40"
+  },
+  {
+    "Image": "146",
+    "Title": "Registrator A4 LIPA MILL ",
+    "Type": "kom",
+    "Price": "243.00",
+    "FullPrice": "291.60",
+    "SubGroupId": "45"
+  },
+  {
+    "Image": "147",
+    "Title": "Registrator A4 LIPA MILL USKI",
+    "Type": "kom",
+    "Price": "243.00",
+    "FullPrice": "291.60",
+    "SubGroupId": "45"
+  },
+  {
+    "Image": "148",
+    "Title": "Registrator B5 LIPA MILL ",
+    "Type": "kom",
+    "Price": "243.00",
+    "FullPrice": "291.60",
+    "SubGroupId": "45"
+  },
+  {
+    "Image": "149",
+    "Title": "FOTOKOPIR PAPIR A4 80GR NAVIGATOR",
+    "Type": "kom",
+    "Price": "375.00",
+    "FullPrice": "450.00",
+    "SubGroupId": "35"
+  },
+  {
+    "Image": "150",
+    "Title": "TEHNICKA OLOVKA 0.5 ROTRING TIKKY",
+    "Type": "kom",
+    "Price": "340.00",
+    "FullPrice": "408.00",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "151",
+    "Title": "Baterija DURACELL LR3 AAA 1/1",
+    "Type": "kom",
+    "Price": "85.00",
+    "FullPrice": "102.00",
+    "SubGroupId": "56"
+  },
+  {
+    "Image": "152",
+    "Title": "Baterija DURACELL LR6 AA 1/1",
+    "Type": "kom",
+    "Price": "85.00",
+    "FullPrice": "102.00",
+    "SubGroupId": "56"
+  },
+  {
+    "Image": "153",
+    "Title": "BATERIJE GP ULTRA 1/6 LR03 AAA",
+    "Type": "kom",
+    "Price": "320.00",
+    "FullPrice": "290.00",
+    "SubGroupId": "56"
+  },
+  {
+    "Image": "154",
+    "Title": "BATERIJE GP ULTRA 1/6 LR06 AA",
+    "Type": "kom",
+    "Price": "320.00",
+    "FullPrice": "290.00",
+    "SubGroupId": "56"
+  },
+  {
+    "Image": "155",
+    "Title": "BATERIJE BRIGHTER 1/1 LR03 AAA",
+    "Type": "kom",
+    "Price": "21.23",
+    "FullPrice": "25.48",
+    "SubGroupId": "56"
+  },
+  {
+    "Image": "156",
+    "Title": "BATERIJE BRIGHTER 1/1 LR06 AA",
+    "Type": "kom",
+    "Price": "27.06",
+    "FullPrice": "32.47",
+    "SubGroupId": "56"
+  },
+  {
+    "Image": "157",
+    "Title": "Korektor 1/1 RETYPE",
+    "Type": "kom",
+    "Price": "39.00",
+    "FullPrice": "46.80",
+    "SubGroupId": "24"
+  },
+  {
+    "Image": "158",
+    "Title": "Bušač za papir MAPED 30 METAL",
+    "Type": "kom",
+    "Price": "805.60",
+    "FullPrice": "966.72",
+    "SubGroupId": "19"
+  },
+  {
+    "Image": "159",
+    "Title": "Bušač za papir STABIL C-216",
+    "Type": "kom",
+    "Price": "495.00",
+    "FullPrice": "594.00",
+    "SubGroupId": "19"
+  },
+  {
+    "Image": "160",
+    "Title": "Korpa za smeće žičana 30L",
+    "Type": "kom",
+    "Price": "325.00",
+    "FullPrice": "390.00",
+    "SubGroupId": "29"
+  },
+  {
+    "Image": "161",
+    "Title": "Indigo masinski KANGARO",
+    "Type": "kom",
+    "Price": "290.00",
+    "FullPrice": "348.00",
+    "SubGroupId": "43"
+  },
+  {
+    "Image": "162",
+    "Title": "Tehnicka olovka STAEDLER MARS",
+    "Type": "kom",
+    "Price": "152.50",
+    "FullPrice": "183.00",
+    "SubGroupId": "23"
+  },
+  {
+    "Image": "163",
+    "Title": "48gr Koehler BPA Termo rolna 28mmx17 metara, R37mm",
+    "Type": "kom 10/500",
+    "Price": "10.68",
+    "FullPrice": "12.82",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "164",
+    "Title": "48gr Koehler BPA Termo rolna 28mmx20 metara, R41mm",
+    "Type": "kom 10/400",
+    "Price": "11.88",
+    "FullPrice": "14.26",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "165",
+    "Title": "48gr Koehler BPA Termo rolna 28mmx30 metara, R48mm",
+    "Type": "kom 10/280",
+    "Price": "17.16",
+    "FullPrice": "20.59",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "166",
+    "Title": "48gr Koehler BPA Termo rolna 28mmx50 metara, R61mm",
+    "Type": "kom 8/184",
+    "Price": "26.28",
+    "FullPrice": "31.54",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "167",
+    "Title": "48gr Koehler BPA Termo rolna 38mmx30 metara, R48mm",
+    "Type": "kom 10/200",
+    "Price": "22.20",
+    "FullPrice": "26.64",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "168",
+    "Title": "55gr Mitsubishi BPA Termo rolna 44mmx30 metara, R50mm",
+    "Type": "kom 10/180",
+    "Price": "26.28",
+    "FullPrice": "31.54",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "169",
+    "Title": "55gr Mitsubishi BPA Termo rolna 44mmx50 metara, R63mm",
+    "Type": "kom 8/120",
+    "Price": "44.10",
+    "FullPrice": "52.92",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "170",
+    "Title": "48gr Koehler/JTK BPA Termo rolna 57mmx17 metara, R38mm",
+    "Type": "kom 10/250",
+    "Price": "18.72",
+    "FullPrice": "22.46",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "171",
+    "Title": "48gr Koehler/JTK BPA Termo rolna 57mmx27 metara, R45mm",
+    "Type": "kom 10/150",
+    "Price": "28.68",
+    "FullPrice": "34.42",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "172",
+    "Title": "48gr Koehler/JTK BPA Termo rolna 57mmx30 metara, R48mm",
+    "Type": "kom 10/150",
+    "Price": "29.88",
+    "FullPrice": "35.86",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "173",
+    "Title": "48gr Koehler/JTK BPA Termo rolna 57mmx45 metara, R57mm",
+    "Type": "kom 10/100",
+    "Price": "42.72",
+    "FullPrice": "51.26",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "174",
+    "Title": "48gr Koehler/JTK BPA Termo rolna 57mmx50 metara, R61mm",
+    "Type": "kom 10/100",
+    "Price": "50.28",
+    "FullPrice": "60.34",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "175",
+    "Title": "48gr Koehler/JTK BPA Termo rolna 57mmx60 metara, R65mm",
+    "Type": "kom 6/84",
+    "Price": "57.24",
+    "FullPrice": "68.69",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "176",
+    "Title": "55gr Mitsubishi BPA Termo rolna 76mmx60 metara, R68mm",
+    "Type": "kom 36",
+    "Price": "92.00",
+    "FullPrice": "110.40",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "177",
+    "Title": "55gr Mitsubishi BPA Termo rolna 80mmx60 metara, R68mm",
+    "Type": "kom 36",
+    "Price": "93.12",
+    "FullPrice": "111.74",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "178",
+    "Title": "55gr Mitsubishi BPA Termo rolna 80mmx80 metara, R78mm",
+    "Type": "kom 30",
+    "Price": "114.60",
+    "FullPrice": "137.52",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "179",
+    "Title": "55gr Mitsubishi BPA Termo rolna 110mmx80 metara, R78mm",
+    "Type": "kom 34",
+    "Price": "167.64",
+    "FullPrice": "201.17",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "180",
+    "Title": "55gr Mitsubishi BPA Termo rolna 110mmx100 metara, R86mm",
+    "Type": "kom 30",
+    "Price": "213.60",
+    "FullPrice": "256.32",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "181",
+    "Title": "Thermal Eco Adestor Termo etiketa 58mmx43mm 1/1000",
+    "Type": "kom 36",
+    "Price": "211.20",
+    "FullPrice": "253.44",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "182",
+    "Title": "55Gr Lenza Top run Ading rolna 76mm 1+0, R68mm",
+    "Type": "kom 36",
+    "Price": "47.88",
+    "FullPrice": "57.46",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "183",
+    "Title": "45Gr Lenza NCR Ading rolna 76mm 1+1, R68mm",
+    "Type": "kom 72",
+    "Price": "87.48",
+    "FullPrice": "104.98",
+    "SubGroupId": "42"
+  },
+  {
+    "Image": "184",
+    "Title": "PET posuda sa poklopcem 375ml",
+    "Type": "kom 1/1",
+    "Price": "3.12",
+    "FullPrice": "3.74",
+    "SubGroupId": "10"
+  },
+  {
+    "Image": "185",
+    "Title": "PET posuda sa poklopcem 500ml",
+    "Type": "kom 1/1",
+    "Price": "3.51",
+    "FullPrice": "4.21",
+    "SubGroupId": "10"
+  },
+  {
+    "Image": "186",
+    "Title": "PET posuda sa poklopcem 1000ml",
+    "Type": "kom 1/1",
+    "Price": "5.72",
+    "FullPrice": "6.86",
+    "SubGroupId": "10"
+  },
+  {
+    "Image": "187",
+    "Title": "PET posuda sa poklopcem 2000ml",
+    "Type": "kom 1/1",
+    "Price": "12.87",
+    "FullPrice": "15.44",
+    "SubGroupId": "10"
+  },
+  {
+    "Image": "188",
+    "Title": "Čaša PVC 0,2 l",
+    "Type": "kom 1/1",
+    "Price": "0.78",
+    "FullPrice": "0.94",
+    "SubGroupId": "14"
+  },
+  {
+    "Image": "189",
+    "Title": "Čaša PVC 0,5 l",
+    "Type": "kom 1/1",
+    "Price": "2.47",
+    "FullPrice": "2.96",
+    "SubGroupId": "14"
+  },
+  {
+    "Image": "190",
+    "Title": "Činija za supu od stiropora 375ml sa poklopcem",
+    "Type": "kom 1/1",
+    "Price": "7.80",
+    "FullPrice": "9.36",
+    "SubGroupId": "13"
+  },
+  {
+    "Image": "191",
+    "Title": "Činija za supu od stiropora 500ml sa poklopcem",
+    "Type": "kom 1/1",
+    "Price": "8.84",
+    "FullPrice": "10.61",
+    "SubGroupId": "13"
+  },
+  {
+    "Image": "192",
+    "Title": "Činija za supu od stiropora 500ml bez poklopca",
+    "Type": "kom 1/1",
+    "Price": "5.46",
+    "FullPrice": "6.55",
+    "SubGroupId": "13"
+  },
+  {
+    "Image": "193",
+    "Title": "MB2 posuda od stiropora",
+    "Type": "kom 1/1",
+    "Price": "7.41",
+    "FullPrice": "8.89",
+    "SubGroupId": "13"
+  },
+  {
+    "Image": "194",
+    "Title": "Kašika pvc",
+    "Type": "kom 1/1",
+    "Price": "1.00",
+    "FullPrice": "1.20",
+    "SubGroupId": "12"
+  },
+  {
+    "Image": "195",
+    "Title": "Viljuška pvc",
+    "Type": "kom 1/1",
+    "Price": "1.00",
+    "FullPrice": "1.20",
+    "SubGroupId": "12"
+  },
+  {
+    "Image": "196",
+    "Title": "Nož pvc",
+    "Type": "kom 1/1",
+    "Price": "1.00",
+    "FullPrice": "1.20",
+    "SubGroupId": "12"
+  },
+  {
+    "Image": "197",
+    "Title": "Selotejp 48x50",
+    "Type": "kom 72",
+    "Price": "38.00",
+    "FullPrice": "45.60",
+    "SubGroupId": "31"
+  },
+  {
+    "Image": "198",
+    "Title": "Selotejp 15x30",
+    "Type": "kom 600",
+    "Price": "9.62",
+    "FullPrice": "11.54",
+    "SubGroupId": "31"
+  },
+  {
+    "Image": "199",
+    "Title": "Selotejp 48x100",
+    "Type": "kom 36",
+    "Price": "85.80",
+    "FullPrice": "102.96",
+    "SubGroupId": "31"
+  },
+  {
+    "Image": "200",
+    "Title": "Alu folija 1 kg",
+    "Type": "kom 36",
+    "Price": "533.00",
+    "FullPrice": "639.60",
+    "SubGroupId": "8"
+  },
+  {
+    "Image": "201",
+    "Title": "Streč folija prehrambena 1 kg",
+    "Type": "kg ",
+    "Price": "305.50",
+    "FullPrice": "366.60",
+    "SubGroupId": "15"
+  },
+  {
+    "Image": "202",
+    "Title": "Streč folija ručna 23 mic 5 kg",
+    "Type": "kg ",
+    "Price": "210.60",
+    "FullPrice": "252.72",
+    "SubGroupId": "15"
+  },
+  {
+    "Image": "203",
+    "Title": "Džak za smeće 40l 1/20",
+    "Type": "pak 1/20",
+    "Price": "43.20",
+    "FullPrice": "51.84",
+    "SubGroupId": "9"
+  },
+  {
+    "Image": "204",
+    "Title": "Džak za smeće 80l 1/10",
+    "Type": "pak 1/10",
+    "Price": "54.60",
+    "FullPrice": "65.52",
+    "SubGroupId": "9"
+  },
+  {
+    "Image": "205",
+    "Title": "Džak za smeće 120l 1/10",
+    "Type": "pak 1/10",
+    "Price": "83.20",
+    "FullPrice": "99.84",
+    "SubGroupId": "9"
+  },
+  {
+    "Image": "206",
+    "Title": "Džak za smeće 130l 1/10 ojačani",
+    "Type": "pak 1/10",
+    "Price": "156.00",
+    "FullPrice": "187.20",
+    "SubGroupId": "9"
+  },
+  {
+    "Image": "207",
+    "Title": "Kesa tregerica 240x440",
+    "Type": "kom 1/2000",
+    "Price": "0.65",
+    "FullPrice": "0.78",
+    "SubGroupId": "11"
+  },
+  {
+    "Image": "208",
+    "Title": "Kesa tregerica 250x500",
+    "Type": "kom 1/2000",
+    "Price": "1.20",
+    "FullPrice": "1.44",
+    "SubGroupId": "11"
+  },
+  {
+    "Image": "209",
+    "Title": "Tečni sapun 1 litar Prefera sa glicerinom",
+    "Type": "kom 1/12",
+    "Price": "93.60",
+    "FullPrice": "112.32",
+    "SubGroupId": "51"
+  },
+  {
+    "Image": "210",
+    "Title": "Tečni sapun 5 litara Prefera sa glicerinom",
+    "Type": "kom 1/1",
+    "Price": "276.90",
+    "FullPrice": "332.28",
+    "SubGroupId": "51"
+  },
+  {
+    "Image": "211",
+    "Title": "Tečnost za pranje posuđa 1 litar Prefera",
+    "Type": "kom 1/12",
+    "Price": "76.70",
+    "FullPrice": "92.04",
+    "SubGroupId": "53"
+  },
+  {
+    "Image": "212",
+    "Title": "Tečnost za pranje posuđa 5 litara Prefera",
+    "Type": "kom 1/1",
+    "Price": "267.80",
+    "FullPrice": "321.36",
+    "SubGroupId": "53"
+  },
+  {
+    "Image": "213",
+    "Title": "Tečnost za pranje posuđa Fairy 800ml",
+    "Type": "kom 1/1",
+    "Price": "214.50",
+    "FullPrice": "257.40",
+    "SubGroupId": "53"
+  },
+  {
+    "Image": "214",
+    "Title": "Tečnost za pranje podova 1 litar Prefera",
+    "Type": "kom 1/12",
+    "Price": "76.70",
+    "FullPrice": "92.04",
+    "SubGroupId": "52"
+  },
+  {
+    "Image": "215",
+    "Title": "Tečnost za pranje podova 5 litara Prefera",
+    "Type": "kom 1/1",
+    "Price": "221.00",
+    "FullPrice": "265.20",
+    "SubGroupId": "52"
+  },
+  {
+    "Image": "216",
+    "Title": "Tečnost za pranje podova sa dezificijensom 5 litara Effix",
+    "Type": "kom 1/1",
+    "Price": "715.00",
+    "FullPrice": "858.00",
+    "SubGroupId": "52"
+  },
+  {
+    "Image": "217",
+    "Title": "Asepsol 1% Prefera",
+    "Type": "kom 1/12",
+    "Price": "143.00",
+    "FullPrice": "171.60",
+    "SubGroupId": "48"
+  },
+  {
+    "Image": "218",
+    "Title": "Alfa Sept za dezinfekciju radnih površina sa natrijum hipohloritom 1,25 litara",
+    "Type": "kom 1/6",
+    "Price": "182.00",
+    "FullPrice": "218.40",
+    "SubGroupId": "48"
+  },
+  {
+    "Image": "219",
+    "Title": "Alfa Sol za dezinfekciju ruku sa hidrogen peroksidom 0,5 litara",
+    "Type": "kom 1/12",
+    "Price": "136.50",
+    "FullPrice": "163.80",
+    "SubGroupId": "48"
+  },
+  {
+    "Image": "220",
+    "Title": "Alkohol 75% 0,5 litara",
+    "Type": "kom 1/12",
+    "Price": "185.90",
+    "FullPrice": "223.08",
+    "SubGroupId": "48"
+  },
+  {
+    "Image": "221",
+    "Title": "Alkohol 70% 1 litar",
+    "Type": "kom 1/12",
+    "Price": "318.50",
+    "FullPrice": "382.20",
+    "SubGroupId": "48"
+  },
+  {
+    "Image": "222",
+    "Title": "A Septol 1 litar za dezinfekciju ruku 72% alkohola + 0,2% benz.hlorid",
+    "Type": "kom 1/12",
+    "Price": "312.00",
+    "FullPrice": "374.40",
+    "SubGroupId": "48"
+  },
+  {
+    "Image": "223",
+    "Title": "Effix 1 litar 75% alkohol + glicerin za suvu dezinfekciju ruku",
+    "Type": "kom 1/12",
+    "Price": "494.00",
+    "FullPrice": "592.80",
+    "SubGroupId": "48"
+  },
+  {
+    "Image": "224",
+    "Title": "Effix 0,5 L 50% alkohol + glicerin",
+    "Type": "kom 1/12",
+    "Price": "237.90",
+    "FullPrice": "285.48",
+    "SubGroupId": "48"
+  },
+  {
+    "Image": "225",
+    "Title": "Reffil za Effix od 5 litara 75% alk",
+    "Type": "kom 1/1",
+    "Price": "507.00",
+    "FullPrice": "608.40",
+    "SubGroupId": "48"
+  },
+  {
+    "Image": "226",
+    "Title": "Maska zaštitna Reteks - periva",
+    "Type": "kom 1/1",
+    "Price": "88.40",
+    "FullPrice": "106.08",
+    "SubGroupId": "46"
+  },
+  {
+    "Image": "227",
+    "Title": "Zaštitno odelo Reteks",
+    "Type": "kom 1/1",
+    "Price": "390.00",
+    "FullPrice": "468.00",
+    "SubGroupId": "55"
+  },
+  {
+    "Image": "228",
+    "Title": "Maska zaštitna KN 95 - FFP2",
+    "Type": "kom 1/1",
+    "Price": "546.00",
+    "FullPrice": "655.20",
+    "SubGroupId": "46"
+  },
+  {
+    "Image": "229",
+    "Title": "Maska zaštitna jednoratna",
+    "Price": "34.20",
+    "FullPrice": "41.04",
+    "SubGroupId": "46"
+  },
+  {
+    "Image": "230",
+    "Title": "Tečni abraziv 750 ml",
+    "Type": "kom 1/12",
+    "Price": "84.50",
+    "FullPrice": "101.40",
+    "SubGroupId": "49"
+  },
+  {
+    "Image": "231",
+    "Title": "Tečnost za pranje stakla 750ml sa pumpicom",
+    "Type": "kom 1/12",
+    "Price": "100.00",
+    "FullPrice": "120.00",
+    "SubGroupId": "50"
+  },
+  {
+    "Image": "232",
+    "Title": "Tečnost za pranje stakla 750 ml refil",
+    "Type": "kom 1/12",
+    "Price": "84.50",
+    "FullPrice": "101.40",
+    "SubGroupId": "50"
+  },
+  {
+    "Image": "233",
+    "Title": "Tečnost za pranje stakla 5 litara refil",
+    "Type": "kom 1/12",
+    "Price": "286.00",
+    "FullPrice": "343.20",
+    "SubGroupId": "50"
+  },
+  {
+    "Image": "234",
+    "Title": "Tečnost za pranje podova Ajax 1 litar",
+    "Type": "kom 1/12",
+    "Price": "201.50",
+    "FullPrice": "241.80",
+    "SubGroupId": "52"
+  },
+  {
+    "Image": "235",
+    "Title": "Tečnost za odmašćivanje Axel Sgrasso sa pumpicom 750 ml",
+    "Type": "kom 1/12",
+    "Price": "279.50",
+    "FullPrice": "335.40",
+    "SubGroupId": "49"
+  },
+  {
+    "Image": "236",
+    "Title": "Tečnost za odmašćivanje jako zaprljanih površina Frononet Sanitec 750m (za inoks, grilove, kuhinje itd)",
+    "Type": "kom 1/12",
+    "Price": "773.50",
+    "FullPrice": "928.20",
+    "SubGroupId": "49"
+  },
+  {
+    "Image": "237",
+    "Title": "Sona kiselina 1 litar",
+    "Type": "kom 1/12",
+    "Price": "58.50",
+    "FullPrice": "70.20",
+    "SubGroupId": "49"
+  },
+  {
+    "Image": "238",
+    "Title": "WC sanitar 1 litar Panonij a",
+    "Type": "kom 1/12",
+    "Price": "117.00",
+    "FullPrice": "140.40",
+    "SubGroupId": "54"
+  },
+  {
+    "Image": "239",
+    "Title": "WC sanitar 750 ml",
+    "Type": "kom 1/12",
+    "Price": "91.00",
+    "FullPrice": "109.20",
+    "SubGroupId": "54"
+  },
+  {
+    "Image": "240",
+    "Title": "Sunđer abraziv 9x6",
+    "Type": "kom 1/1",
+    "Price": "8.84",
+    "FullPrice": "10.61",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "241",
+    "Title": "Magična krpa mikrofiber",
+    "Type": "kom 1/1",
+    "Price": "65.00",
+    "FullPrice": "78.00",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "242",
+    "Title": "Truleks 1/3",
+    "Type": "kom 1/1",
+    "Price": "37.70",
+    "FullPrice": "45.24",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "243",
+    "Title": "Žica za sudove",
+    "Type": "kom 100",
+    "Price": "18.20",
+    "FullPrice": "21.84",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "244",
+    "Title": "Uložak briska 180 gr pamuk",
+    "Type": "kom 1/1",
+    "Price": "78.00",
+    "FullPrice": "93.60",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "245",
+    "Title": "Drška za briska manja 110cm",
+    "Type": "kom 1/1",
+    "Price": "65.00",
+    "FullPrice": "78.00",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "246",
+    "Title": "Kofa za briska sa cediljkom",
+    "Type": "kom 1/1",
+    "Price": "221.00",
+    "FullPrice": "265.20",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "247",
+    "Title": "Metla sirkova",
+    "Type": "kom 1/1",
+    "Price": "260.00",
+    "FullPrice": "312.00",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "248",
+    "Title": "Rukavice za domaćinstvo žute",
+    "Type": "pak 1/240",
+    "Price": "58.50",
+    "FullPrice": "70.20",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "249",
+    "Title": "Salvete 28x28",
+    "Type": "pak 30",
+    "Price": "33.80",
+    "FullPrice": "40.56",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "250",
+    "Title": "Toalet papir 1/24 troslojni u rolni",
+    "Type": "pak 6",
+    "Price": "312.00",
+    "FullPrice": "374.40",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "251",
+    "Title": "Toalet papir 1/10 dvoslojni u rolni",
+    "Type": "pak 10",
+    "Price": "169.00",
+    "FullPrice": "202.80",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "252",
+    "Title": "Toalet papir 1/100 dvoslojni u rolni",
+    "Type": "kom 1/1",
+    "Price": "11.20",
+    "FullPrice": "13.44",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "253",
+    "Title": "Toalet papir složivi",
+    "Type": "pak 20",
+    "Price": "39.00",
+    "FullPrice": "46.80",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "254",
+    "Title": "Ubrus složivi",
+    "Type": "pak 40",
+    "Price": "74.10",
+    "FullPrice": "88.92",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "255",
+    "Title": "Ubrus 1/50 u rolni",
+    "Type": "kom 1/1",
+    "Price": "27.30",
+    "FullPrice": "32.76",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "256",
+    "Title": "Ubrus u rolni 1 / 2 Prefera",
+    "Type": "pak 50",
+    "Price": "58.50",
+    "FullPrice": "70.20",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "257",
+    "Title": "Ubrus u rolni 1 / 2 Premium",
+    "Type": "pak 50",
+    "Price": "78.00",
+    "FullPrice": "93.60",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "258",
+    "Title": "Ubrus džambo 400 gr",
+    "Type": "kom 8",
+    "Price": "119.60",
+    "FullPrice": "143.52",
+    "SubGroupId": "47"
+  },
+  {
+    "Image": "259",
+    "Title": "Obrazac 1 1+1",
+    "Type": "kom",
+    "Price": "45.10",
+    "FullPrice": "54.12",
+    "SubGroupId": "18",
+    "ItemCode": "IL-1260"
+  },
+  {
+    "Image": "260",
+    "Title": "Obrazac 1 1+2",
+    "Type": "kom",
+    "Price": "69.30",
+    "FullPrice": "83.16",
+    "SubGroupId": "18",
+    "ItemCode": "IL-1261"
+  },
+  {
+    "Image": "261",
+    "Title": "Obrazac 1 NCR",
+    "Type": "kom",
+    "Price": "49.50",
+    "FullPrice": "59.40",
+    "SubGroupId": "18",
+    "ItemCode": "IL-1266"
+  },
+  {
+    "Image": "262",
+    "Title": "Obrazac 2 1+1",
+    "Type": "kom",
+    "Price": "45.10",
+    "FullPrice": "54.12",
+    "SubGroupId": "18",
+    "ItemCode": "IL-1262"
+  },
+  {
+    "Image": "263",
+    "Title": "Obrazac 3 1+0",
+    "Type": "kom",
+    "Price": "39.60",
+    "FullPrice": "47.52",
+    "SubGroupId": "18",
+    "ItemCode": "IL-1263"
+  },
+  {
+    "Image": "264",
+    "Title": "Obrazac 3 1+1",
+    "Type": "kom",
+    "Price": "45.10",
+    "FullPrice": "54.12",
+    "SubGroupId": "18",
+    "ItemCode": "IL-1264"
+  },
+  {
+    "Image": "265",
+    "Title": "Nota račun NCR",
+    "Type": "kom",
+    "Price": "41.80",
+    "FullPrice": "50.16",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1061"
+  },
+  {
+    "Image": "266",
+    "Title": "Paragon blok NCR",
+    "Type": "kom",
+    "Price": "48.40",
+    "FullPrice": "58.08",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1062"
+  },
+  {
+    "Image": "267",
+    "Title": "Konobarski blok NCR",
+    "Type": "kom",
+    "Price": "48.40",
+    "FullPrice": "58.08",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1063"
+  },
+  {
+    "Image": "268",
+    "Title": "Fiskalni račun A6",
+    "Type": "kom",
+    "Price": "48.40",
+    "FullPrice": "58.08",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1064"
+  },
+  {
+    "Image": "269",
+    "Title": "Priznanica A6 NCR",
+    "Type": "kom",
+    "Price": "41.80",
+    "FullPrice": "50.16",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1060"
+  },
+  {
+    "Image": "270",
+    "Title": "Dnevni pazar A5 NCR",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1045"
+  },
+  {
+    "Image": "271",
+    "Title": "Dostavnica A5 ncr-bez PDV",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1067"
+  },
+  {
+    "Image": "272",
+    "Title": "Fiskalni račun A5",
+    "Type": "kom",
+    "Price": "93.90",
+    "FullPrice": "112.68",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1048"
+  },
+  {
+    "Image": "273",
+    "Title": "Nalog blag da isplati NCR",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1038"
+  },
+  {
+    "Image": "274",
+    "Title": "Nalog blag da naplati NCR",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1037"
+  },
+  {
+    "Image": "275",
+    "Title": "Nalog mag da izda NCR",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1040"
+  },
+  {
+    "Image": "276",
+    "Title": "Nalog mag da primi NCR",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1039"
+  },
+  {
+    "Image": "277",
+    "Title": "Nalog za ispravku",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1046"
+  },
+  {
+    "Image": "278",
+    "Title": "Odluka o reklamaciji",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1051"
+  },
+  {
+    "Image": "279",
+    "Title": "Potvrda o prijemu reklamacije",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1050"
+  },
+  {
+    "Image": "280",
+    "Title": "Otpremnica A5-bez PDV",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1033"
+  },
+  {
+    "Image": "281",
+    "Title": "Otpremnica A5-sa PDV",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1034"
+  },
+  {
+    "Image": "282",
+    "Title": "Otpremnica prijemnica A5-bez PDV",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1035"
+  },
+  {
+    "Image": "283",
+    "Title": "Prevoznica A5 ncr",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1049"
+  },
+  {
+    "Image": "284",
+    "Title": "Priznanica A5 NCR",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1042"
+  },
+  {
+    "Image": "285",
+    "Title": "Račun A5 sa PDV",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1032"
+  },
+  {
+    "Image": "286",
+    "Title": "Račun A5 NCR bez PDV a",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1066"
+  },
+  {
+    "Image": "287",
+    "Title": "Revers NCR",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1043"
+  },
+  {
+    "Image": "288",
+    "Title": "Specifikacija čekova građ A5",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1030"
+  },
+  {
+    "Image": "289",
+    "Title": "Trebovanje A5 NCR",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1041"
+  },
+  {
+    "Image": "290",
+    "Title": "Otkupni list priznanica A5",
+    "Type": "kom",
+    "Price": "82.50",
+    "FullPrice": "99.00",
+    "SubGroupId": "5",
+    "ItemCode": "IL-1031"
+  },
+  {
+    "Image": "291",
+    "Title": "Nalog za knjiženje A5 of",
+    "Type": "kom",
+    "Price": "63.80",
+    "FullPrice": "76.56",
+    "SubGroupId": "4",
+    "ItemCode": "IL-1130"
+  },
+  {
+    "Image": "292",
+    "Title": "Nalog za kor put vozila u ss",
+    "Type": "kom",
+    "Price": "63.80",
+    "FullPrice": "76.56",
+    "SubGroupId": "4",
+    "ItemCode": "IL-1133"
+  },
+  {
+    "Image": "293",
+    "Title": "Nalog za služb put A5",
+    "Type": "kom",
+    "Price": "63.80",
+    "FullPrice": "76.56",
+    "SubGroupId": "4",
+    "ItemCode": "IL-1131"
+  },
+  {
+    "Image": "294",
+    "Title": "EFRU",
+    "Type": "kom",
+    "Price": "62.70",
+    "FullPrice": "75.24",
+    "SubGroupId": "4",
+    "ItemCode": "IL-1132"
+  },
+  {
+    "Image": "295",
+    "Title": "Dnevnik blagajne NCR",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "2",
+    "ItemCode": "IL-1002"
+  },
+  {
+    "Image": "296",
+    "Title": "Faktura A4 bez PDV-a",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "2",
+    "ItemCode": "IL-1012"
+  },
+  {
+    "Image": "297",
+    "Title": "Otpremnica A4",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "2",
+    "ItemCode": "IL-1005"
+  },
+  {
+    "Image": "298",
+    "Title": "Otpremnica A4 PDV",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "2",
+    "ItemCode": "IL-1006"
+  },
+  {
+    "Image": "299",
+    "Title": "Kalkulacija cena A4 ncr",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "2",
+    "ItemCode": "IL-1003"
+  },
+  {
+    "Image": "300",
+    "Title": "Knjiga inspekcije",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "2",
+    "ItemCode": "IL-1013"
+  },
+  {
+    "Image": "301",
+    "Title": "Knjiga šanka NCR",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "2",
+    "ItemCode": "IL-1011"
+  },
+  {
+    "Image": "302",
+    "Title": "Popis robe A4 NCR",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "2",
+    "ItemCode": "IL-1008"
+  },
+  {
+    "Image": "303",
+    "Title": "Popis robe sa nivelacijom NCR",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "2",
+    "ItemCode": "IL-1009"
+  },
+  {
+    "Image": "304",
+    "Title": "Račun A4 NCR",
+    "Type": "kom",
+    "Price": "165.00",
+    "FullPrice": "198.00",
+    "SubGroupId": "2",
+    "ItemCode": "IL-1001"
+  },
+  {
+    "Image": "305",
+    "Title": "List DPU",
+    "Type": "kom",
+    "Price": "121.00",
+    "FullPrice": "145.20",
+    "SubGroupId": "3",
+    "ItemCode": "IL-1113"
+  },
+  {
+    "Image": "306",
+    "Title": "Knjiga šanka",
+    "Type": "kom",
+    "Price": "121.00",
+    "FullPrice": "145.20",
+    "SubGroupId": "3",
+    "ItemCode": "IL-1112"
+  },
+  {
+    "Image": "307",
+    "Title": "Nalog za knjiženje A4 of",
+    "Type": "kom",
+    "Price": "121.00",
+    "FullPrice": "145.20",
+    "SubGroupId": "3",
+    "ItemCode": "IL-1110"
+  },
+  {
+    "Image": "308",
+    "Title": "Kalkulacija cena A4 OF",
+    "Type": "kom",
+    "Price": "121.00",
+    "FullPrice": "145.20",
+    "SubGroupId": "3",
+    "ItemCode": "IL-1111"
+  },
+  {
+    "Image": "309",
+    "Title": "Građevinski dnevnik",
+    "Type": "kom",
+    "Price": "121.00",
+    "FullPrice": "145.20",
+    "SubGroupId": "3",
+    "ItemCode": "IL-1114"
+  },
+  {
+    "Image": "310",
+    "Title": "Obračunski list građ knjige",
+    "Type": "kom",
+    "Price": "121.00",
+    "FullPrice": "145.20",
+    "SubGroupId": "3",
+    "ItemCode": "IL-1115"
+  },
+  {
+    "Image": "311",
+    "Title": "Putni nalog za PMV",
+    "Type": "kom",
+    "Price": "141.90",
+    "FullPrice": "170.28",
+    "SubGroupId": "3",
+    "ItemCode": "IL-1116"
+  },
+  {
+    "Image": "312",
+    "Title": "Putni nalog za TMV",
+    "Type": "kom",
+    "Price": "141.90",
+    "FullPrice": "170.28",
+    "SubGroupId": "3",
+    "ItemCode": "IL-1117"
+  },
+  {
+    "Image": "313",
+    "Title": "Popisna lista sir mater",
+    "Type": "kom",
+    "Price": "317.90",
+    "FullPrice": "381.48",
+    "SubGroupId": "1",
+    "ItemCode": "IL-1081"
+  },
+  {
+    "Image": "314",
+    "Title": "Popisna lista sir mater",
+    "Type": "kom",
+    "Price": "317.90",
+    "FullPrice": "381.48",
+    "SubGroupId": "1",
+    "ItemCode": "IL-1080"
+  },
+  {
+    "Image": "315",
+    "Title": "Delovodnik 100l",
+    "Type": "kom",
+    "Price": "323.40",
+    "FullPrice": "388.08",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1229"
+  },
+  {
+    "Image": "316",
+    "Title": "Delovodnik 200l",
+    "Type": "kom",
+    "Price": "479.60",
+    "FullPrice": "575.52",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1230"
+  },
+  {
+    "Image": "317",
+    "Title": "Personalni dosije crveni",
+    "Type": "kom",
+    "Price": "181.50",
+    "FullPrice": "217.80",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1236"
+  },
+  {
+    "Image": "318",
+    "Title": "Protokol bolesnika",
+    "Type": "kom",
+    "Price": "478.50",
+    "FullPrice": "574.20",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1235"
+  },
+  {
+    "Image": "319",
+    "Title": "Popis osnovnih sredstava",
+    "Type": "kom",
+    "Price": "317.90",
+    "FullPrice": "381.48",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1080"
+  },
+  {
+    "Image": "320",
+    "Title": "Knjiga EDI",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1237"
+  },
+  {
+    "Image": "321",
+    "Title": "Knjiga KEP",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1222"
+  },
+  {
+    "Image": "322",
+    "Title": "Knjiga KIF",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1243"
+  },
+  {
+    "Image": "323",
+    "Title": "Knjiga KIR",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1221"
+  },
+  {
+    "Image": "324",
+    "Title": "Knjiga KPO",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1224"
+  },
+  {
+    "Image": "325",
+    "Title": "Knjiga KPR",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1220"
+  },
+  {
+    "Image": "326",
+    "Title": "Knjiga KUF",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1242"
+  },
+  {
+    "Image": "327",
+    "Title": "Knjiga odluka",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1241"
+  },
+  {
+    "Image": "328",
+    "Title": "Knjiga prih i rash PK 1",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1223"
+  },
+  {
+    "Image": "329",
+    "Title": "Knjiga primljene pošte na lič",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1246"
+  },
+  {
+    "Image": "330",
+    "Title": "Knjiga reklamacija",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1247"
+  },
+  {
+    "Image": "331",
+    "Title": "Dostavna knjiga za mesto",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1226"
+  },
+  {
+    "Image": "332",
+    "Title": "Dostavna knjiga za poštu",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1227"
+  },
+  {
+    "Image": "333",
+    "Title": "Ekspediciona knjiga",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1228"
+  },
+  {
+    "Image": "334",
+    "Title": "Interna dostavna knjiga",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1225"
+  },
+  {
+    "Image": "335",
+    "Title": "Matična knjiga radnika",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1240"
+  },
+  {
+    "Image": "336",
+    "Title": "Skraćeni delovodnik",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1231"
+  },
+  {
+    "Image": "337",
+    "Title": "Mesečna knjiga LD karnet",
+    "Type": "kom",
+    "Price": "105.05",
+    "FullPrice": "126.06",
+    "SubGroupId": "7",
+    "ItemCode": "IL-1232"
+  },
+  {
+    "Image": "338",
+    "Title": "Kasa blok",
+    "Type": "kom",
+    "Price": "14.30",
+    "FullPrice": "17.16",
+    "SubGroupId": "29",
+    "ItemCode": "IL-1150"
+  },
+  {
+    "Image": "339",
+    "Title": "Sanitarna knjižica",
+    "Type": "kom",
+    "Price": "42.70",
+    "FullPrice": "51.24",
+    "SubGroupId": "29",
+    "ItemCode": "IL-1154"
+  },
+  {
+    "Image": "340",
+    "Title": "Etikete CENE male 1/200",
+    "Type": "kom",
+    "Price": "0.40",
+    "FullPrice": "0.48",
+    "SubGroupId": "29",
+    "ItemCode": "IL-1170"
+  },
+  {
+    "Image": "341",
+    "Title": "Etikete CENE veće 1/200",
+    "Type": "kom",
+    "Price": "0.56",
+    "FullPrice": "0.67",
+    "SubGroupId": "29",
+    "ItemCode": "IL-1171"
+  },
+  {
+    "Image": "342",
+    "Title": "Omot spisa beli",
+    "Type": "kom",
+    "Price": "3.52",
+    "FullPrice": "4.22",
+    "SubGroupId": "17",
+    "ItemCode": "IL-1200"
+  },
+  {
+    "Image": "343",
+    "Title": "Omot spisa crveni",
+    "Type": "kom",
+    "Price": "3.52",
+    "FullPrice": "4.22",
+    "SubGroupId": "17",
+    "ItemCode": "IL-1201"
+  },
+  {
+    "Image": "344",
+    "Title": "Omot spisa plavi",
+    "Type": "kom",
+    "Price": "3.52",
+    "FullPrice": "4.22",
+    "SubGroupId": "17",
+    "ItemCode": "IL-1207"
+  },
+  {
+    "Image": "345",
+    "Title": "Omot spisa zeleni",
+    "Type": "kom",
+    "Price": "3.52",
+    "FullPrice": "4.22",
+    "SubGroupId": "17",
+    "ItemCode": "IL-1203"
+  },
+  {
+    "Image": "346",
+    "Title": "Omot spisa žuti",
+    "Type": "kom",
+    "Price": "3.52",
+    "FullPrice": "4.22",
+    "SubGroupId": "17",
+    "ItemCode": "IL-1202"
+  },
+  {
+    "Image": "347",
+    "Title": "Obr Obaveštenje o reklamaciji",
+    "Type": "kom",
+    "Price": "2.50",
+    "FullPrice": "3.00",
+    "SubGroupId": "17",
+    "ItemCode": "IL-1068"
+  },
+  {
+    "Image": "348",
+    "Title": "Obr Prijava boravka stranca",
+    "Type": "kom",
+    "Price": "2.42",
+    "FullPrice": "2.90",
+    "SubGroupId": "17",
+    "ItemCode": "IL-1108"
+  },
+  {
+    "Image": "349",
+    "Title": "Nalog za služb putovanje",
+    "Type": "kom",
+    "Price": "1.98",
+    "FullPrice": "2.38",
+    "SubGroupId": "17",
+    "ItemCode": "IL-1151"
+  },
+  {
+    "Image": "350",
+    "Title": "Kocka za poruke",
+    "Type": "kom",
+    "Price": "55.80",
+    "FullPrice": "66.96",
+    "SubGroupId": "36",
+    "ItemCode": "IL-1178"
+  },
+  {
+    "Image": "351",
+    "Title": "Kocka za poruke u boji",
+    "Type": "kom",
+    "Price": "62.10",
+    "FullPrice": "74.52",
+    "SubGroupId": "36",
+    "ItemCode": "IL-1179"
+  },
+  {
+    "Image": "352",
+    "Title": "Punjenje Papirna kocka bela",
+    "Type": "kom",
+    "Price": "77.00",
+    "FullPrice": "92.40",
+    "SubGroupId": "36",
+    "ItemCode": "IL-1159"
+  },
+  {
+    "Image": "353",
+    "Title": "Punjenje Papirna kocka MIX",
+    "Type": "kom",
+    "Price": "133.10",
+    "FullPrice": "159.72",
+    "SubGroupId": "36",
+    "ItemCode": "IL-1157"
+  },
+  {
+    "Image": "354",
+    "Title": "Punjenje papirna kocka oranž",
+    "Type": "kom",
+    "Price": "133.10",
+    "FullPrice": "159.72",
+    "SubGroupId": "36",
+    "ItemCode": "IL-11571"
+  },
+  {
+    "Image": "355",
+    "Title": "Punjenje papirna kocka pink",
+    "Type": "kom",
+    "Price": "133.10",
+    "FullPrice": "159.72",
+    "SubGroupId": "36",
+    "ItemCode": "IL-11572"
+  },
+  {
+    "Image": "356",
+    "Title": "Punjenje papirna kocka plava",
+    "Type": "kom",
+    "Price": "133.10",
+    "FullPrice": "159.72",
+    "SubGroupId": "36",
+    "ItemCode": "IL-11573"
+  },
+  {
+    "Image": "357",
+    "Title": "Punjenje papirna kocka zelena",
+    "Type": "kom",
+    "Price": "133.10",
+    "FullPrice": "159.72",
+    "SubGroupId": "36",
+    "ItemCode": "IL-11574"
+  },
+  {
+    "Image": "358",
+    "Title": "Punjenje papirna kocka žuta",
+    "Type": "kom",
+    "Price": "133.10",
+    "FullPrice": "159.72",
+    "SubGroupId": "36",
+    "ItemCode": "IL-11575"
+  },
+  {
+    "Image": "359",
+    "Title": "Kocka sa papirom bela PVC",
+    "Type": "kom",
+    "Price": "157.30",
+    "FullPrice": "188.76",
+    "SubGroupId": "36",
+    "ItemCode": "IL-1158"
+  },
+  {
+    "Image": "360",
+    "Title": "Kocka sa papirom mix boja PVC",
+    "Type": "kom",
+    "Price": "214.50",
+    "FullPrice": "257.40",
+    "SubGroupId": "36",
+    "ItemCode": "IL-1156"
+  },
+  {
+    "Image": "361",
+    "Title": "Kocka sa papirom oranž PVC",
+    "Type": "kom",
+    "Price": "214.50",
+    "FullPrice": "257.40",
+    "SubGroupId": "36",
+    "ItemCode": "IL-11561"
+  },
+  {
+    "Image": "362",
+    "Title": "Kocka sa papirom pink PVC",
+    "Type": "kom",
+    "Price": "214.50",
+    "FullPrice": "257.40",
+    "SubGroupId": "36",
+    "ItemCode": "IL-11562"
+  },
+  {
+    "Image": "363",
+    "Title": "Kocka sa papirom plava PVC",
+    "Type": "kom",
+    "Price": "214.50",
+    "FullPrice": "257.40",
+    "SubGroupId": "36",
+    "ItemCode": "IL-11563"
+  },
+  {
+    "Image": "364",
+    "Title": "Kocka sa papirom zelena PVC",
+    "Type": "kom",
+    "Price": "214.50",
+    "FullPrice": "257.40",
+    "SubGroupId": "36",
+    "ItemCode": "IL-11564"
+  },
+  {
+    "Image": "365",
+    "Title": "Kocka sa papirom žuta PVC",
+    "Type": "kom",
+    "Price": "214.50",
+    "FullPrice": "257.40",
+    "SubGroupId": "36",
+    "ItemCode": "IL-11656"
+  },
+  {
+    "Image": "366",
+    "Title": "Blok za beleške ILIJANUM A4 SK",
+    "Type": "kom",
+    "Price": "62.81",
+    "FullPrice": "75.37",
+    "SubGroupId": "33",
+    "ItemCode": "IL-1172"
+  },
+  {
+    "Image": "367",
+    "Title": "Blok za beleške ILIJANUM A5 SK",
+    "Type": "kom",
+    "Price": "33.66",
+    "FullPrice": "40.39",
+    "SubGroupId": "33",
+    "ItemCode": "IL-1174"
+  },
+  {
+    "Image": "368",
+    "Title": "Blok za beleške ILIJANUM A6 SK",
+    "Type": "kom",
+    "Price": "19.36",
+    "FullPrice": "23.23",
+    "SubGroupId": "33",
+    "ItemCode": "IL-1176"
+  },
+  {
+    "Image": "369",
+    "Title": "Blok za JAMB 10 kolona",
+    "Type": "kom",
+    "Price": "16.94",
+    "FullPrice": "20.33",
+    "SubGroupId": "34",
+    "ItemCode": "IL-1291"
+  },
+  {
+    "Image": "370",
+    "Title": "Blok za JAMB 5 kolona",
+    "Type": "kom",
+    "Price": "16.94",
+    "FullPrice": "20.33",
+    "SubGroupId": "34",
+    "ItemCode": "IL-1289"
+  },
+  {
+    "Image": "371",
+    "Title": "Blok za JAMB 7 kolona",
+    "Type": "kom",
+    "Price": "16.94",
+    "FullPrice": "20.33",
+    "SubGroupId": "34",
+    "ItemCode": "IL-1290"
+  },
+  {
+    "Image": "372",
+    "Title": "FK 11",
+    "Type": "kom",
+    "Price": "3.20",
+    "FullPrice": "3.84",
+    "SubGroupId": "6",
+    "ItemCode": "IL-1287"
+  },
+  {
+    "Image": "373",
+    "Title": "RK 30",
+    "Type": "kom",
+    "Price": "4.30",
+    "FullPrice": "5.16",
+    "SubGroupId": "6",
+    "ItemCode": "IL-1285"
+  },
+  {
+    "Image": "374",
+    "Title": "RK 31",
+    "Type": "kom",
+    "Price": "3.20",
+    "FullPrice": "3.84",
+    "SubGroupId": "6",
+    "ItemCode": "IL-1286"
+  },
+  {
+    "Image": "375",
+    "Title": "Viseća kartica",
+    "Type": "kom",
+    "Price": "2.10",
+    "FullPrice": "2.52",
+    "SubGroupId": "6",
+    "ItemCode": "IL-1288"
+  },
+  {
+    "Image": "376",
+    "Title": "Sveska TP A5 Imitex 80L D",
+    "Type": "kom",
+    "Price": "71.50",
+    "FullPrice": "85.80",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1383"
+  },
+  {
+    "Image": "377",
+    "Title": "Sveska TP A5 Imitex 80L SK",
+    "Type": "kom",
+    "Price": "71.50",
+    "FullPrice": "85.80",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1384"
+  },
+  {
+    "Image": "378",
+    "Title": "Sveska TP A4 Imitex 80L D",
+    "Type": "kom",
+    "Price": "132.00",
+    "FullPrice": "158.40",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1382"
+  },
+  {
+    "Image": "379",
+    "Title": "Sveska TP A4 Imitex 80L SK",
+    "Type": "kom",
+    "Price": "132.00",
+    "FullPrice": "158.40",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1380"
+  },
+  {
+    "Image": "380",
+    "Title": "Sveska TP A4 Imitex 80L VK",
+    "Type": "kom",
+    "Price": "132.00",
+    "FullPrice": "158.40",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1381"
+  },
+  {
+    "Image": "381",
+    "Title": "Sveska TP A5 200L D",
+    "Type": "kom",
+    "Price": "149.60",
+    "FullPrice": "179.52",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1404"
+  },
+  {
+    "Image": "382",
+    "Title": "Sveska TP A5 200L SK",
+    "Type": "kom",
+    "Price": "149.60",
+    "FullPrice": "179.52",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1403"
+  },
+  {
+    "Image": "383",
+    "Title": "Sveska TP A4 200L D",
+    "Type": "kom",
+    "Price": "299.20",
+    "FullPrice": "359.04",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1402"
+  },
+  {
+    "Image": "384",
+    "Title": "Sveska TP A4 200L SK",
+    "Type": "kom",
+    "Price": "299.20",
+    "FullPrice": "359.04",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1400"
+  },
+  {
+    "Image": "385",
+    "Title": "Sveska TP A4 200L VK",
+    "Type": "kom",
+    "Price": "299.20",
+    "FullPrice": "359.04",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1401"
+  },
+  {
+    "Image": "386",
+    "Title": "Sveska TP A5 300L D",
+    "Type": "kom",
+    "Price": "222.75",
+    "FullPrice": "267.30",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1424"
+  },
+  {
+    "Image": "387",
+    "Title": "Sveska TP A5 300L SK",
+    "Type": "kom",
+    "Price": "222.75",
+    "FullPrice": "267.30",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1423"
+  },
+  {
+    "Image": "388",
+    "Title": "Sveska TP A4 300L D",
+    "Type": "kom",
+    "Price": "445.50",
+    "FullPrice": "534.60",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1422"
+  },
+  {
+    "Image": "389",
+    "Title": "Sveska TP A4 300L SK",
+    "Type": "kom",
+    "Price": "445.50",
+    "FullPrice": "534.60",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1420"
+  },
+  {
+    "Image": "390",
+    "Title": "Sveska TP A4 300L VK",
+    "Type": "kom",
+    "Price": "445.50",
+    "FullPrice": "534.60",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1421"
+  },
+  {
+    "Image": "391",
+    "Title": "Referentska sveska A4",
+    "Type": "kom",
+    "Price": "83.60",
+    "FullPrice": "100.32",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1244"
+  },
+  {
+    "Image": "392",
+    "Title": "Registar sveska A4 azbuka",
+    "Type": "kom",
+    "Price": "239.80",
+    "FullPrice": "287.76",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1452"
+  },
+  {
+    "Image": "393",
+    "Title": "Registar sveska A4 ILIJANUM",
+    "Type": "kom",
+    "Price": "239.80",
+    "FullPrice": "287.76",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1440"
+  },
+  {
+    "Image": "394",
+    "Title": "Registar sveska A5 azbuka",
+    "Type": "kom",
+    "Price": "150.70",
+    "FullPrice": "180.84",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1453"
+  },
+  {
+    "Image": "395",
+    "Title": "Registar sveska A5 ILIJANUM",
+    "Type": "kom",
+    "Price": "150.70",
+    "FullPrice": "180.84",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1441"
+  },
+  {
+    "Image": "396",
+    "Title": "Dopisna knjiga A4",
+    "Type": "kom",
+    "Price": "114.40",
+    "FullPrice": "137.28",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1233"
+  },
+  {
+    "Image": "397",
+    "Title": "Dopisna knjiga A5",
+    "Type": "kom",
+    "Price": "89.65",
+    "FullPrice": "107.58",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1234"
+  },
+  {
+    "Image": "398",
+    "Title": "Knjiga utisaka",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1238"
+  },
+  {
+    "Image": "399",
+    "Title": "Knjiga žalbi",
+    "Type": "kom",
+    "Price": "179.30",
+    "FullPrice": "215.16",
+    "SubGroupId": "38",
+    "ItemCode": "IL-1239"
+  },
+  {
+    "Image": "400",
+    "Title": "Obrazac CMR",
+    "Type": "kom",
+    "Price": "23.65",
+    "FullPrice": "28.38",
+    "SubGroupId": "16",
+    "ItemCode": "IL-1304"
+  },
+  {
+    "Image": "401",
+    "Title": "DCV",
+    "Type": "kom",
+    "Price": "15.70",
+    "FullPrice": "18.84",
+    "SubGroupId": "16",
+    "ItemCode": "805"
+  },
+  {
+    "Image": "402",
+    "Title": "DCV BIS",
+    "Type": "kom",
+    "Price": "9.30",
+    "FullPrice": "11.16",
+    "SubGroupId": "16",
+    "ItemCode": "802"
+  },
+  {
+    "Image": "403",
+    "Title": "Obrazac JCI 5l izvoz",
+    "Type": "kom",
+    "Price": "15.40",
+    "FullPrice": "18.48",
+    "SubGroupId": "16",
+    "ItemCode": "5748"
+  },
+  {
+    "Image": "404",
+    "Title": "Obrazac JCI 5l uvoz",
+    "Type": "kom",
+    "Price": "15.40",
+    "FullPrice": "18.48",
+    "SubGroupId": "16",
+    "ItemCode": "1315"
+  },
+  {
+    "Image": "405",
+    "Title": "Obrazac JCI BIS 5l izvoz",
+    "Type": "kom",
+    "Price": "15.40",
+    "FullPrice": "18.48",
+    "SubGroupId": "16",
+    "ItemCode": "5749"
+  },
+  {
+    "Image": "406",
+    "Title": "Obrazac JCI BIS 5l uvoz",
+    "Type": "kom",
+    "Price": "15.40",
+    "FullPrice": "18.48",
+    "SubGroupId": "16",
+    "ItemCode": "1316"
+  },
+  {
+    "Image": "407",
+    "Title": "Sažeta deklaracija",
+    "Type": "kom",
+    "Price": "188.10",
+    "FullPrice": "225.72",
+    "SubGroupId": "16",
+    "ItemCode": "12670"
+  },
+  {
+    "Image": "408",
+    "Title": "Tabulir papir 240x12 1+0",
+    "Type": "kom",
+    "Price": "1459.00",
+    "FullPrice": "1750.8",
+    "SubGroupId": "41"
+  },
+  {
+    "Image": "409",
+    "Title": "Tabulir papir 240x12 1+1",
+    "Type": "kom",
+    "Price": "2015.00",
+    "FullPrice": "2418",
+    "SubGroupId": "41"
+  },
+  {
+    "Image": "410",
+    "Title": "Tabulir papir 240x12 1+2",
+    "Type": "kom",
+    "Price": "2145.00",
+    "FullPrice": "2574",
+    "SubGroupId": "41"
+  },
+  {
+    "Image": "411",
+    "Title": "Tabulir papir 240x12 1+2",
+    "Type": "kom",
+    "Price": "2197.00",
+    "FullPrice": "2636.4",
+    "SubGroupId": "41"
+  }
+]

@@ -1,0 +1,157 @@
+﻿@model TimexGrafo.ViewModels.CheckoutViewModel
+@{
+    ViewData["Title"] = " - Potvrda kupovine";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    
+    var counter = 0;
+}
+
+<a href="/Korpa" class="btn btn-info float-right btn-sm"><i class="fas fa-chevron-left"></i> Izmeni korpu</a>
+<h2 class="font-weight-lighter"> Potvrda kupovine </h2>
+<hr class="bg-info float-left" style="width:5%; height:5px;" />
+
+<form class="mt-5 mb-0" data-aos="fade-down" data-aos-delay="400" asp-controller="Checkout" asp-action="Submit">
+    <div class="row">
+        <div class="col-md-5 offset-md-1 pt-3">
+            <div class="form-group">
+                <label for="inputFirm">Preduzeće</label>
+                <input type="text" class="form-control" id="inputFirm" placeholder="Unesite ime preduzeća" asp-for="Firm">
+                <span asp-validation-for="Firm" class="text-warning"></span>
+                <br />
+            </div>
+            <div class="form-group">
+                <label for="inputPib">PIB</label>
+                <input type="text" class="form-control" id="inputPib" placeholder="Unesite PIB preduzeća" asp-for="PIB">
+                <span asp-validation-for="PIB" class="text-warning"></span>
+                <br />
+            </div>
+            <div class="form-group">
+                <label for="inputAddress">Adresa</label>
+                <input type="text" class="form-control" id="inputAddress" placeholder="Unesite punu adresu" required asp-for="Address">
+                <span asp-validation-for="Address" class="text-warning"></span>
+                <br />
+            </div>
+            <div class="form-group">
+                <label for="inputPostalNumber">Poštanski broj</label>
+                <input type="text" class="form-control" id="inputPostalNumber" placeholder="Unesite poštanski broj" required asp-for="PostalNumber">
+                <span asp-validation-for="PostalNumber" class="text-warning"></span>
+                <br />
+            </div>
+            <div class="form-group">
+                <label for="inputCity">Grad</label>
+                <input type="text" class="form-control" id="inputCity" placeholder="Unesite naziv grada" required asp-for="City">
+                <span asp-validation-for="City" class="text-warning"></span>
+                <br />
+            </div>
+        </div>
+        <div class="col-md-5 offset-md-1 pt-3">
+            <div class="form-group">
+                <label for="inputName">Ime i prezime</label>
+                <input type="text" class="form-control" id="inputName" aria-describedby="emailHelp" placeholder="Unesite vaše ime i prezime" required asp-for="FullName">
+                <span asp-validation-for="FullName" class="text-warning"></span>
+                <br />
+            </div>
+            <div class="form-group">
+                <label for="inputEmail">Email</label>
+                <input type="email" class="form-control" id="inputEmail" placeholder="Unesite adresu e-pošte" required asp-for="Email">
+                <span asp-validation-for="Email" class="text-warning"></span>
+                <br />
+            </div>
+            <div class="form-group">
+                <label for="inputCity">Telefon</label>
+                <input type="text" class="form-control" id="inputCity" placeholder="Unesite broj kontakt telefona" required asp-for="PhoneNumber">
+                <span asp-validation-for="PhoneNumber" class="text-warning"></span>
+                <br />
+            </div>
+            <div class="form-group">
+                <label for="inputNote">Dodatna napomena</label>
+                <textarea class="form-control" id="inputNote" rows="2" asp-for="Note"></textarea>
+                <small class="form-text text-muted text-right">Opciono</small>
+                <span asp-validation-for="Note" class="text-warning"></span>
+            </div>
+            <div class="form-group">
+                <small class="form-text text-muted"><i class="far fa-handshake"></i> Poštujemo vašu privatnost i prema tome nikada nećemo vaše lične podatke podeliti javno.</small>
+            </div>
+        </div>
+    </div>
+    <hr class="w-100 ml-0 ml-md-5" />
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <h5 class="d-inline font-weight-lighter">Pregled kupovine</h5>
+            <a href="/Korpa" class="btn btn-info float-right btn-sm font-weight-lighter"><i class="fas fa-chevron-left font-weight-lighter"></i> Izmeni korpu</a>
+            <hr class="bg-info ml-0" style="width:5%; height:5px;" />
+            <table class="table table-responsive">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col" class="d-none d-md-table-cell d-xl-table-cell d-lg-table-cell d-sm-table-cell">#</th>
+                        <th scope="col">Proizvod</th>
+                        <th scope="col">Šifra artikla</th>
+                        <th scope="col" class="d-none d-md-table-cell d-xl-table-cell d-lg-table-cell d-sm-table-cell">Cena</th>
+                        <th scope="col">Količina</th>
+                        <th scope="col">Iznos</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var c in Model.Cart.CartItem)
+                    {
+                        <small class="d-none">@(counter++)</small>
+                        <tr class="border border-top-0 border-left-0 border-right-0">
+                            <th scope="row" class="d-none d-md-table-cell">@(counter)</th>
+                            <td class="col"><a href="/Shop/@c.Item.Id" class="text-decoration-none"><img src="~/lib/images/Shop/@(c.Item.Image).jpg" class="img-fluid d-inline-block w-15" alt="@c.Item.Title" /> <h5 class="d-inline font-weight-normal">@c.Item.Title</h5></a></td>
+                            <td class="col">@c.Item.ItemCode</td>
+                            <td class="col d-none d-md-table-cell d-xl-table-cell d-lg-table-cell d-sm-table-cell" id="itemPrice_@c.Id" data-price="@c.Item.FullPrice"> @(String.Format("{0:0.00}", c.Item.FullPrice)) RSD </td>
+                            <td class="col text-center">
+                                <input asp-for="@c.Quantity" type="number" value="@c.Quantity" id="itemQuantity_@c.Id" required class="w-100 d-inline" onchange="UpdateCartItem(this)" data-id="@c.Id" data-beforeChange="@c.Quantity" min="1" disabled />
+                            </td>
+                            <td class="col" id="fullItemPrice_@c.Id" data-price="@(c.Item.FullPrice*c.Quantity)">@(String.Format("{0:0.00}", c.Item.FullPrice * c.Quantity)) RSD</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            @if (Model != null)
+            {
+                if (Model.Cart.CartItem.Count() > 0)
+                {
+                    <div class="row">
+                        <div class="col-md-4 offset-md-2">
+                            <h5 class="small">Potvrda porudžbine</h5>
+                            <hr class="bg-info ml-0 mt-0" style="width:15%; height:4px;" />
+                            <p>Ukupno: </p>
+                        </div>
+                        <div class="col-md-4 text-right">
+                            <br />
+                            <br />
+                            @if (Model == null)
+                            {
+                                <p> 0 RSD</p>
+                            }
+                            else
+                            {
+                                <div class="totalPriceUpdate">
+                                    @{
+                                        double totalPrice = 0;
+                                        foreach (var i in Model.Cart.CartItem)
+                                        {
+                                            totalPrice += i.Quantity * i.Item.FullPrice;
+                                        }
+                                    }
+                                    <p id="totalPrice" data-totalPrice="@totalPrice">@(String.Format("{0:0.00}", totalPrice)) RSD</p>
+                                </div>
+                            }
+                        </div>
+                        <div class="col-md-8 offset-md-2">
+                            <small class="text-right"><i class="fas fa-info-circle"></i> U cenu je uračunat PDV</small>
+                        </div>
+                        <div class="col-md-8 offset-md-2 text-right">
+                            <input type="hidden" asp-for="CartId" value="@Model.Cart.Id" />
+                            <hr />
+                            <input type="submit" value="Potvrdi kupovinu" class="btn btn-outline-dark btn-sm" onclick="submitCart()" />
+                        </div>
+                    </div>
+
+                }
+
+            }
+        </div>
+    </div>
+</form>

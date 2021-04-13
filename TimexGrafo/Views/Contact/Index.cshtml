@@ -1,0 +1,51 @@
+﻿@model TimexGrafo.ViewModels.ContactMailViewModel
+@{
+    ViewData["Title"] = " - Kontakt";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@section OutsideContainer{
+
+    <div class="w-100 " style="height:250px; border-bottom:3px solid #F8F5F0">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11325.415094505668!2d20.458843!3d44.7939784!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x294c629379122a7f!2sTIMEX%20GRAFO!5e0!3m2!1ssr!2srs!4v1589815374784!5m2!1ssr!2srs" class="w-100" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+    </div>
+    <br />
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 m-auto bg-light">
+                <div class="contact-form">
+                    <h1>Kontakt</h1>
+                    <p class="hint-text">Imate bilo kakvih pitanja? Ne ustručavajte se da nas direktno kontaktirate. Naš tim će vam odgovoriti i pomoći u najkraćem roku.</p>
+                        <form asp-action="SendMail" asp-controller="Kontakt" method="post">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label for="inputFirstName">Ime</label>
+                                    <input type="text" class="form-control" id="inputFirstName" asp-for="Name" required>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label for="inputLastName">Prezime</label>
+                                    <input type="text" class="form-control" id="inputLastName" asp-for="LastName" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputEmail">Email adresa</label>
+                            <input type="email" class="form-control" id="inputEmail" asp-for="Email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputMessage">Poruka</label>
+                            <textarea class="form-control" id="inputMessage" rows="5" asp-for="Message" required></textarea>
+                        </div>
+                        <input type="submit" class="btn btn-dark mb-2 ml-0" value="Pošalji poruku">
+                    </form>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+}

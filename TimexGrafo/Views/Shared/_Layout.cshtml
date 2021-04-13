@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Timex Grafo @ViewData["Title"] </title>
+    <link rel="icon" href="~/lib/images/logo.JPG" type="image/x-icon">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/lux-bootstrap.min.css" />
+    <link href="~/lib/aos-master/dist/aos.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/css/indexstyle.css" rel="stylesheet" />
+    <link href="~/lib/fontawesome-free-5.13.0-web/css/all.css" rel="stylesheet" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link href="~/lib/jquery-image-zoom-in-zoom-out-on-click/css/zoom.css" rel="stylesheet" type="text/css" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="keywords" content="kancelarijski materijal, skolski pribor, registratori" />
+    <meta name="description" content="TIMEX GRAFO d.o.o. je preduzeće koje se bavi proizvodnjom, uvozom i prodajom kancelarijskog materijala i školskog pribora." />
+</head>
+<body id="page-top">
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark border-bottom box-shadow fixed-top" id="mainNav">
+            <a class="navbar-brand mt-auto" href="/">
+                <img src="~/lib/images/logo.JPG" alt="TimexGrafoLogo" id="logo" />
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarColor03">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item" id="nav-link-pocetna">
+
+                        <a class="nav-link " href="/">Početna <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item" id="nav-link-shop">
+                        <a class="nav-link" href="/Shop">Onlajn prodaja</a>
+                    </li>
+                    <li class="nav-item" id="nav-link-veleprodaja">
+                        <a class="nav-link" href="/Veleprodaja">Veleprodaja</a>
+                    </li>
+                    <li class="nav-item" id="nav-link-proizvodnja">
+                        <a class="nav-link" href="/Proizvodnja">Proizvodnja</a>
+                    </li>
+                    <li class="nav-item" id="nav-link-onama">
+                        <a class="nav-link" href="/Onama">O nama</a>
+                    </li>
+                    <li class="nav-item" id="nav-link-kontakt">
+                        <a class="nav-link" href="/Kontakt">Kontakt</a>
+                    </li>
+                    <li class="nav-item" id="nav-link-korpa">
+                        <a class="nav-link" href="/Korpa"><i class="fas fa-shopping-cart"></i> Korpa</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container" id="logoAfterHeader">
+        <main role="main" class="pb-3 pt-5" data-aos="fade-up" data-aos-delay="150">
+            <flash dismissable="true"/>
+            <div class="text-center mb-4" data-aos="fade-up" data-aos-delay="200">
+
+                <a class="navbar-brand" id="WelcomeLogo" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/lib/images/logo.JPG" class="img-fluid" />
+                </a>
+
+                @*<hr class="w-50 bg-light" />*@
+            </div>
+            <div id="body">
+                @RenderBody()
+            </div>
+        </main>
+    </div>
+    @RenderSection("OutsideContainer", required: false)
+    <br class="mt-5" />
+    <!-- Footer-->
+    <footer class="footer text-center pb-0">
+        <div class="container">
+            <div class="row">
+                <!-- Footer Location-->
+                <div class="col-lg-4 mb-5 mb-lg-0">
+                    <h4 class="text-uppercase mb-4">Lokacija</h4>
+                    <p class="lead mb-0" style="line-height:2">Dobropoljska 69a, <br />Beograd 11040</p>
+                </div>
+                <!-- Footer Social Icons-->
+                <div class="col-lg-4 mb-5 mb-lg-0">
+                    <h4 class="text-uppercase mb-4">Pronađite nas na mapi:</h4>
+                    @*<a class="btn btn-outline-light btn-social mx-1" href="#"><i class="fab fa-fw fa-facebook-f"></i></a><a class="btn btn-outline-light btn-social mx-1" href="#"><i class="fab fa-fw fa-twitter"></i></a><a class="btn btn-outline-light btn-social mx-1" href="#"><i class="fab fa-fw fa-linkedin-in"></i></a><a class="btn btn-outline-light btn-social mx-1" href="#"><i class="fab fa-fw fa-dribbble"></i></a>*@
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11325.415094505668!2d20.458843!3d44.7939784!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x294c629379122a7f!2sTIMEX%20GRAFO!5e0!3m2!1ssr!2srs!4v1589882529014!5m2!1ssr!2srs" id="google-map" frameborder="0" style="border:3px solid black;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                </div>
+                <!-- Footer About Text-->
+                <div class="col-lg-4">
+                    <h4 class="text-uppercase mb-4">Kontakt</h4>
+                    <p class="lead mb-0" style="line-height:2">Strahinja Milić <br />064/0666 664</p>
+                    <hr class="w-75" />
+                    <p class="lead mb-0" style="line-height:2">Milan Milovanović <br />060/6129 156</p>
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div class="navbar navbar-expand-md navbar-collapse mt-5">
+            <ul class="navbar-nav mb-0 mr-auto">
+                <li class="nav-item" id="nav-link-pocetna">
+
+                    <a class="nav-link" href="/">Početna <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item" id="nav-link-shop">
+                    <a class="nav-link" href="/Shop">Onlajn prodaja</a>
+                </li>
+                <li class="nav-item" id="nav-link-veleprodaja">
+                    <a class="nav-link" href="/Veleprodaja">Veleprodaja</a>
+                </li>
+                <li class="nav-item" id="nav-link-proizvodnja">
+                    <a class="nav-link" href="/Proizvodnja">Proizvodnja</a>
+                </li>
+                <li class="nav-item" id="nav-link-onama">
+                    <a class="nav-link" href="/Onama">O nama</a>
+                </li>
+                <li class="nav-item" id="nav-link-kontakt">
+                    <a class="nav-link" href="/Kontakt">Kontakt</a>
+                </li>
+                <li class="nav-item" id="nav-link-korpa">
+                    <a class="nav-link" href="/Korpa"><i class="fas fa-shopping-cart"></i> Korpa</a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+    <section class="copyright py-4 text-center text-white">
+        <div class="container"><small> TimexGrafo 2020 &copy; Sva prava zadržana.</small></div>
+        <small><a href="/sitemap.xml" target="_blank">Sitemap</a> &nabla; Developed By <a target="_blank" href="https://www.linkedin.com/in/stefan-zivaljevic-7145bb173">StefanoDAngola</a></small>
+    </section>
+    <div class="container my-4" id="consentContainer">
+        <!--Modal: modalCookie-->
+        <div class="modal fade top pt-5" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+             aria-hidden="true" data-backdrop="true">
+            <div class="modal-dialog modal-frame modal-top modal-notify modal-info mt-5" role="document">
+                <!--Content-->
+                <div class="modal-content">
+                    <!--Body-->
+                    <div class="modal-body">
+                        <div class="row d-flex justify-content-center align-items-center">
+                            <div class="col-10">
+                                <h4 class="font-weight-lighter">Kolačići</h4>
+                                <hr class="hr-short hr-bold bg-secondary ml-0"/>
+                                <p class="pt-3">Koristimo <u>isključivo neophodne</u> kolačiće ("cookies") kako bismo vam pružili najbolje korisničko iskustvo. </p>
+
+                                <a class="btn btn-secondary mr-5" href="/Kolacici">
+                                    Saznaj više
+                                    <i class="fas fa-book ml-1"></i>
+                                </a>
+                                <a class="btn btn-outline-secondary waves-effect" data-dismiss="modal" onclick="removeConsentContainer()">U redu, hvala.</a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!--/.Content-->
+            </div>
+        </div>
+        <!--Modal: modalCookie-->
+    </div>
+    <button onclick="topFunction()" id="scrollButton"><i class="fa fa-chevron-up"></i></button>
+
+
+
+    @RenderSection("Modals", required: false)
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/fontawesome-free-5.13.0-web/js/all.js"></script>
+    <script src="~/lib/zoom-master/jquery.zoom.js"></script>
+    <script src="~/lib/jquery-image-zoom-in-zoom-out-on-click/js/zoom.js"></script>
+    <script src="~/lib/aos-master/dist/aos.js"></script>
+    <script>
+        $(window).on('resize', function () { AOS.refresh(); });
+        $(window).on('load', function () { setTimeout(AOS.refreshHard, 150); });
+
+        $(document).ready(function () {
+            AOS.init({
+                startEvent: 'DOMContentLoaded',
+                easing: 'ease-in-out-quart',
+                duration: 600, once: false
+            });
+
+        });
+
+    </script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+    <script type="text/javascript">
+    $('#' + '@ViewBag.ActiveMenu').addClass('active');
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+﻿@model TimexGrafo.ViewModels.IndexViewModel
+@{
+    ViewData["Title"] = " - Onlajn prodavnica";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-9 offset-1" data-aos="fade-up" data-aos-delay="400">
+        <a href="/Korpa" class="btn btn-info float-right btn-sm"><i class="fas fa-shopping-cart"></i> Korpa</a>
+        <h3>Onlajn kolekcija </h3>
+        <hr class="bg-info float-left" style="width:5%; height:5px;" />
+        <br />
+        <ul class="list-unstyled list-group mb-5" id="ulShopItems">
+            @foreach (var group in Model.ShopGroups)
+            {
+                <li class="list-group-item rounded-0 list-group-item-action mt-3 border border-top-0 border-left border-right-0 border-bottom" data-toggle="collapse" href="#collapse-group-@group.Id" role="button" aria-expanded="true" data-target="#collapse-group-@group.Id" aria-controls="collapse-group-@group.Id" id="group_@group.Id">@group.Title</li>
+                <li class="pl-3">
+                    <ul class="list-group collapse list-unstyled" id="collapse-group-@group.Id">
+                        @foreach (var subGroup in group.SubGroups)
+                        {
+                            <li class="list-group-item list-group-item-action border border-top-0 border-left-0 border-right-0 border-bottom" data-toggle="collapse" href="#collapse-subgroup-@subGroup.Id" role="button" aria-expanded="false" aria-controls="collapse-subgroup-@subGroup.Id" id="subGroup_@subGroup.Id">@subGroup.Title</li>
+                            <li class="list-group-item-action">
+                                <ul class="list-group collapse list-unstyled" id="collapse-subgroup-@subGroup.Id">
+                                    @foreach (var item in subGroup.Items)
+                                    {
+                                        <li class="list-group-item list-group-item-action border border-0"><a class="text-info" href="/Shop/@group.Id/@subGroup.Id/@item.Id">@item.Title</a></li>
+
+                                    }
+                                </ul>
+                            </li>
+                        }
+                    </ul>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
+
+@section Scripts{ 
+    <script>
+        var qs = (function (a) {
+            if (a == "") return {};
+            var b = {};
+            for (var i = 0; i < a.length; ++i) {
+                var p = a[i].split('=', 2);
+                if (p.length == 1)
+                    b[p[0]] = "";
+                else
+                    b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
+            }
+            return b;
+        })(window.location.search.substr(1).split('&'));
+
+        $("#collapse-group-"+qs["group"]).attr("class", "list-group collapse list-unstyled show");
+        $("#collapse-subgroup-" + qs["subgroup"]).attr("class", "list-group collapse list-unstyled show");
+        console.log(group + " " + subGroup);
+    </script>
+}

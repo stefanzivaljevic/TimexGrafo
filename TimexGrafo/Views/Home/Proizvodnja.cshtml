@@ -1,0 +1,115 @@
+﻿
+@{
+    ViewData["Title"] = " - Proizvodnja";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Grid row -->
+<h3 class="font-weight-light text-center text-md-left mt-4 mb-0" data-aos="fade-up" data-aos-delay="200">Proizvodnja</h3>
+
+<hr class="mt-2 mb-5" data-aos="fade-down" data-aos-delay="200">
+<!-- Grid row -->
+<div class="row mb-4">
+    <div class="col-md-5 offset-md-1">
+        <h4 class="font-weight-bolder">Politika kvaliteta </h4>
+        <hr class="hr-bold hr-short bg-secondary ml-0"/>
+        <p class="text-justify">Napornim radom i konstantnim usavršavanjem težimo ne samo da ispunimo kvote, već i da unapredimo poslovanje našeg tima u svim sferama i samim tim stvorimo dobru podlogu za dalji rast i uspeh preduzeća. </p>
+    </div>
+    <div class="col-md-5 ">
+        <h4 class="font-weight-bolder">Naša vizija</h4>
+        <hr class="hr-bold hr-short bg-secondary ml-0" />
+        <p class="text-justify">Želimo da stalnim rastom ponude obezbedimo svojim klijentima proizvode prvoklasnog kvaliteta, kao i da postanemo lideri u proizvodnji kancelarijskog pribora i materijala. </p>
+    </div>
+</div>
+<!-- Grid row -->
+<div class="gallery" id="gallery" data-aos="fade-up" data-aos-delay="300">
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2 first-photo gallerySmallerImages">
+        <img class="img-fluid" src="~/lib/images/1.JPG" alt="Card image cap">
+
+    </div>
+    <!-- Grid column -->
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1 second-photo">
+        <img class="img-fluid image-portrait" src="../lib/images/4.JPG" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1 third-photo">
+        <img class="img-fluid image-portrait" src="../lib/images/11.JPG" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2 gallerySmallerImages">
+        <img class="img-fluid" src="~/lib/images/14.JPG" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2 gallerySmallerImages">
+        <img class="img-fluid" src="~/lib/images/5.JPG" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1 seventh-photo">
+        <img class="img-fluid image-portrait" src="../lib/images/7.JPG" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+
+</div>
+<!-- Grid row -->
+<div class="gallery" id="gallery">
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2 first-photo gallerySmallerImages">
+        <img class="img-fluid gallery" src="~/lib/images/9.JPG" alt="Card image cap">
+
+    </div>
+    <!-- Grid column -->
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2 gallerySmallerImages">
+        <img class="img-fluid" src="~/lib/images/8.JPG" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2 gallerySmallerImages">
+        <img class="img-fluid" src="~/lib/images/12.JPG" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1 thirtheenth-photo">
+
+    </div>
+    <!-- Grid column -->
+</div>
+<div class="row mt-5">
+    <div class="col-md-6 offset-6">
+        <h5 class="font-weight-lighter text-right">Saznajte više o našem preduzeću prateći sledeći <a href="/onama">link</a></h5>
+        <hr class="hr-bold hr-short bg-secondary mr-0"/>
+    </div>
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+        $(function () {
+            var selectedClass = "";
+            $(".filter").click(function () {
+                selectedClass = $(this).attr("data-rel");
+                $("#gallery").fadeTo(100, 0.1);
+                $("#gallery div").not("." + selectedClass).fadeOut().removeClass('animation');
+                setTimeout(function () {
+                    $("." + selectedClass).fadeIn().addClass('animation');
+                    $("#gallery").fadeTo(300, 1);
+                }, 300);
+            });
+        });
+
+        $('#gallery img')
+            .wrap('<span style="display:inline-block"></span>')
+            .css('display', 'block')
+            .parent()
+            .zoom();
+
+    </script>
+}

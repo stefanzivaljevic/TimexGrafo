@@ -1,0 +1,37 @@
+﻿@model TimexGrafo.ViewModels.VeleprodajaViewModel
+@{
+    ViewData["Title"] = " - Veleprodaja";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-9 offset-1" data-aos="fade-up" data-aos-delay="400">
+        @*<a href="/Korpa" class="btn btn-info float-right btn-sm"><i class="fas fa-shopping-cart"></i> Korpa</a>*@
+        <h3>Kompletna ponuda za veleprodaju </h3>
+        <hr class="bg-info float-left" style="width:5%; height:5px;" />
+        <br />
+        <ul class="list-unstyled list-group mb-5">
+            @foreach (var group in Model.Groups)
+            {
+                <li class="list-group-item rounded-0 list-group-item-action mt-3 border border-top-0 border-left border-right-0 border-bottom" data-toggle="collapse" href="#collapse-group-@group.Id" role="button" aria-expanded="false" aria-controls="collapse-group-@group.Id">@group.Title</li>
+                <li class="pl-3">
+                    <ul class="list-group collapse list-unstyled" id="collapse-group-@group.Id">
+                        @foreach (var subGroup in group.SubGroups)
+                        {
+                            <li class="list-group-item list-group-item-action border border-top-0 border-left-0 border-right-0 border-bottom" data-toggle="collapse" href="#collapse-subgroup-@subGroup.Id" role="button" aria-expanded="false" aria-controls="collapse-subgroup-@subGroup.Id">@subGroup.Title</li>
+                            <li class="list-group-item-action">
+                                <ul class="list-group collapse list-unstyled" id="collapse-subgroup-@subGroup.Id">
+                                    @foreach (var item in subGroup.Items)
+                                    {
+                                        <li class="list-group-item list-group-item-action border border-0"><a class="text-info" href="/Veleprodaja/@item.Id">@item.Title</a></li>
+                                        
+                                    }
+                                </ul>
+                            </li>
+                        }
+                    </ul>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

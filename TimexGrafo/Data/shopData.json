@@ -1,0 +1,533 @@
+﻿[
+  {
+      "Image": "OP00001",
+      "Title": "Registrator A4 sa kutijom EKO LINE sirina 8cm  tamno plavi",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00001"
+  },
+  {
+      "Image": "OP00002",
+      "Title": "Registrator A4 sa kutijom EKO LINE sirina 8cm  crveni",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00002"
+  },
+  {
+      "Image": "OP00003",
+      "Title": "Registrator A4 sa kutijom EKO LINE sirina 8cm  žuti",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00003"
+  },
+  {
+      "Image": "OP00004",
+      "Title": "Registrator A4 sa kutijom EKO LINE sirina 8cm  zeleni",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00004"
+  },
+  {
+      "Image": "OP00005",
+      "Title": "Registrator A4 sa kutijom EKO LINE sirina 5cm tamno plavi",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00005"
+  },
+  {
+      "Image": "OP00006",
+      "Title": "Registrator A4 sa kutijom EKO LINE sirina 5cm crveni",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00006"
+  },
+  {
+      "Image": "OP00007",
+      "Title": "Registrator A4 sa kutijom EKO LINE sirina 5cm žuti",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00007"
+  },
+  {
+      "Image": "OP00008",
+      "Title": "Registrator A4 sa kutijom EKO LINE sirina 5cm zeleni",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00008"
+  },
+  {
+      "Image": "OP00009",
+      "Title": "Registrator B5 sa kutijom EKO LINE sirina 8cm tamno plavi",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00009"
+  },
+  {
+      "Image": "OP00010",
+      "Title": "Registrator B5 sa kutijom EKO LINE sirina 8cm crveni",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00010"
+  },
+  {
+      "Image": "OP00010",
+      "Title": "Registrator B5 sa kutijom EKO LINE sirina 8cm žuti",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00010"
+  },
+  {
+      "Image": "OP00010",
+      "Title": "Registrator B5 sa kutijom EKO LINE sirina 8cm zeleni",
+      "Type": "kom",
+      "Price": "120.00",
+      "FullPrice": "144.00",
+      "SubGroupId": "1",
+      "ItemCode": "OP00010"
+  },
+  {
+      "Image": "OP00013",
+      "Title": "Pregradni karton 230x300 mm plavi 100/1",
+      "Type": "pak",
+      "Price": "690.00",
+      "FullPrice": "828.00",
+      "SubGroupId": "2",
+      "ItemCode": "OP00013"
+  },
+  {
+      "Image": "OP00014",
+      "Title": "Pregradni karton 230x300 mm zeleni 100/1",
+      "Type": "pak",
+      "Price": "690.00",
+      "FullPrice": "828.00",
+      "SubGroupId": "2",
+      "ItemCode": "OP00014"
+  },
+  {
+      "Image": "OP00015",
+      "Title": "Pregradni karton 230x300 mm žuti 100/1",
+      "Type": "pak",
+      "Price": "690.00",
+      "FullPrice": "828.00",
+      "SubGroupId": "2",
+      "ItemCode": "OP00015"
+  },
+  {
+      "Image": "OP00016",
+      "Title": "Pregradni karton 230x300 mm roze 100/1",
+      "Type": "pak",
+      "Price": "690.00",
+      "FullPrice": "828.00",
+      "SubGroupId": "2",
+      "ItemCode": "OP00016"
+  },
+  {
+      "Image": "OP00017",
+      "Title": "Pregradni karton 240x105 mm plavi 100/1",
+      "Type": "pak",
+      "Price": "259.00",
+      "FullPrice": "310.80",
+      "SubGroupId": "2",
+      "ItemCode": "OP00017"
+  },
+  {
+      "Image": "OP00017",
+      "Title": "Pregradni karton 240x105 mm zeleni 100/1",
+      "Type": "pak",
+      "Price": "259.00",
+      "FullPrice": "310.80",
+      "SubGroupId": "2",
+      "ItemCode": "OP00017"
+  },
+  {
+      "Image": "OP00017",
+      "Title": "Pregradni karton 240x105 mm žuti 100/1",
+      "Type": "pak",
+      "Price": "259.00",
+      "FullPrice": "310.80",
+      "SubGroupId": "2",
+      "ItemCode": "OP00017"
+  },
+  {
+      "Image": "OP00017",
+      "Title": "Pregradni karton 240x105 mm roze 100/1",
+      "Type": "pak",
+      "Price": "259.00",
+      "FullPrice": "310.80",
+      "SubGroupId": "2",
+      "ItemCode": "OP00017"
+  },
+  {
+      "Image": "OP00021",
+      "Title": "Folija sa perforacijom 80 mikrona",
+      "Type": "pak",
+      "Price": "495.00",
+      "FullPrice": "594.00",
+      "SubGroupId": "3",
+      "ItemCode": "OP00021"
+  },
+  {
+      "Image": "OP00022",
+      "Title": "Folija sa perforacijom 40 mikrona 100/1",
+      "Type": "pak",
+      "Price": "205.00",
+      "FullPrice": "246.00",
+      "SubGroupId": "3",
+      "ItemCode": "OP00022"
+  },
+  {
+      "Image": "OP00023",
+      "Title": "Folija sa perforacijom 30 mikrona",
+      "Type": "pak",
+      "Price": "190.00",
+      "FullPrice": "228.00",
+      "SubGroupId": "3",
+      "ItemCode": "OP00023"
+  },
+  {
+      "Image": "OP00024",
+      "Title": "Fascikla L 80 mikrona",
+      "Type": "pak",
+      "Price": "520.00",
+      "FullPrice": "624.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00024"
+  },
+  {
+      "Image": "OP00025",
+      "Title": "Fascikla sa mehanizmom crna, plava, crvena, bela",
+      "Type": "kom",
+      "Price": "27.50",
+      "FullPrice": "33.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00025"
+  },
+  {
+      "Image": "OP00026",
+      "Title": "Fascikla hromo karton bela",
+      "Type": "kom",
+      "Price": "17.00",
+      "FullPrice": "20.40",
+      "SubGroupId": "4",
+      "ItemCode": "OP00026"
+  },
+  {
+      "Image": "OP00027",
+      "Title": "Fascikla hromo karton plava",
+      "Type": "kom",
+      "Price": "19.00",
+      "FullPrice": "22.80",
+      "SubGroupId": "4",
+      "ItemCode": "OP00027"
+  },
+  {
+      "Image": "OP00028",
+      "Title": "Fascikla hromo karton crvena",
+      "Type": "kom",
+      "Price": "19.00",
+      "FullPrice": "22.80",
+      "SubGroupId": "4",
+      "ItemCode": "OP00028"
+  },
+  {
+      "Image": "OP00029",
+      "Title": "Fascikla hromo karton žuta",
+      "Type": "kom",
+      "Price": "19.00",
+      "FullPrice": "22.80",
+      "SubGroupId": "4",
+      "ItemCode": "OP00029"
+  },
+  {
+      "Image": "OP00030",
+      "Title": "Fascikla hromo karton zelena",
+      "Type": "kom",
+      "Price": "19.00",
+      "FullPrice": "22.80",
+      "SubGroupId": "4",
+      "ItemCode": "OP00030"
+  },
+  {
+      "Image": "OP00031",
+      "Title": "Fascikla kartonska sa gumicom više boja",
+      "Type": "kom",
+      "Price": "81.00",
+      "FullPrice": "97.20",
+      "SubGroupId": "4",
+      "ItemCode": "OP00031"
+  },
+  {
+      "Image": "OP00032",
+      "Title": "Fascikla PVC koverta A4 sa patent zatvaranjem",
+      "Type": "kom",
+      "Price": "39.00",
+      "FullPrice": "46.80",
+      "SubGroupId": "4",
+      "ItemCode": "OP00032"
+  },
+  {
+      "Image": "OP00033",
+      "Title": "Fascikla PVC koverta 12x22 cm sa patent zatvaranjem",
+      "Type": "kom",
+      "Price": "29.00",
+      "FullPrice": "34.80",
+      "SubGroupId": "4",
+      "ItemCode": "OP00033"
+  },
+  {
+      "Image": "OP00034",
+      "Title": "Fascikla katalog sa 10 U folija",
+      "Type": "kom",
+      "Price": "175.00",
+      "FullPrice": "210.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00034"
+  },
+  {
+      "Image": "OP00035",
+      "Title": "Fascikla katalog sa 20 U folija",
+      "Type": "kom",
+      "Price": "195.00",
+      "FullPrice": "234.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00035"
+  },
+  {
+      "Image": "OP00036",
+      "Title": "Fascikla katalog sa 30 U folija ",
+      "Type": "kom",
+      "Price": "220.00",
+      "FullPrice": "264.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00036"
+  },
+  {
+      "Image": "OP00037",
+      "Title": "Fascikla katalog sa 40 U folija",
+      "Type": "kom",
+      "Price": "255.00",
+      "FullPrice": "306.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00037"
+  },
+  {
+      "Image": "OP00038",
+      "Title": "Fascikla katalog sa 80 U folija",
+      "Type": "kom",
+      "Price": "325.00",
+      "FullPrice": "390.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00038"
+  },
+  {
+      "Image": "OP00039",
+      "Title": "Fascikla sa 12 pregrada I gumicom 260x145 mm PATIO 5039 plava",
+      "Type": "kom",
+      "Price": "250.00",
+      "FullPrice": "300.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00039"
+  },
+  {
+      "Image": "OP00040",
+      "Title": "Fascikla sa 12 pregrada I gumicom 260x145 mm PATIO 5039 zelena",
+      "Type": "kom",
+      "Price": "250.00",
+      "FullPrice": "300.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00040"
+  },
+  {
+      "Image": "OP00041",
+      "Title": "Fascikla sa 12 pregrada I gumicom 260x145 mm PATIO 5039 žuta",
+      "Type": "kom",
+      "Price": "250.00",
+      "FullPrice": "300.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00041"
+  },
+  {
+      "Image": "OP00042",
+      "Title": "Fascikla sa 12 pregrada I gumicom 260x145 mm PATIO 5039 siva",
+      "Type": "kom",
+      "Price": "250.00",
+      "FullPrice": "300.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00042"
+  },
+  {
+      "Image": "OP00044",
+      "Title": "Fascikla sa 12 pregrada I gumicom 330x230 mm PATIO 5057 plava",
+      "Type": "kom",
+      "Price": "350.00",
+      "FullPrice": "420.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00044"
+  },
+  {
+      "Image": "OP00045",
+      "Title": "Fascikla sa 12 pregrada I gumicom 330x230 mm PATIO 5057 crna",
+      "Type": "kom",
+      "Price": "350.00",
+      "FullPrice": "420.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00045"
+  },
+  {
+      "Image": "OP00046",
+      "Title": "Fascikla sa 12 pregrada I gumicom 330x230 mm PATIO 5057 siva",
+      "Type": "kom",
+      "Price": "350.00",
+      "FullPrice": "420.00",
+      "SubGroupId": "4",
+      "ItemCode": "OP00046"
+  },
+  {
+      "Image": "OP00047",
+      "Title": "Fascikla A4 SWING CLIP FILE PATIO 3025 crvena",
+      "Type": "kom",
+      "Price": "49.00",
+      "FullPrice": "58.80",
+      "SubGroupId": "4",
+      "ItemCode": "OP00047"
+  },
+  {
+      "Image": "OP00048",
+      "Title": "Fascikla A4 SWING CLIP FILE PATIO 3025 plava",
+      "Type": "kom",
+      "Price": "49.00",
+      "FullPrice": "58.80",
+      "SubGroupId": "4",
+      "ItemCode": "OP00048"
+  },
+  {
+      "Image": "OP00049",
+      "Title": "Fascikla A4 SWING CLIP FILE PATIO 3025 žuta",
+      "Type": "kom",
+      "Price": "49.00",
+      "FullPrice": "58.80",
+      "SubGroupId": "4",
+      "ItemCode": "OP00049"
+  },
+  {
+      "Image": "OP00050",
+      "Title": "CD folder 1/24 PATIO 7301 plavi",
+      "Type": "kom",
+      "Price": "190.00",
+      "FullPrice": "228.00",
+      "SubGroupId": "5",
+      "ItemCode": "OP00050"
+  },
+  {
+      "Image": "OP00051",
+      "Title": "CD folder 1/24 PATIO 7301 roze",
+      "Type": "kom",
+      "Price": "190.00",
+      "FullPrice": "228.00",
+      "SubGroupId": "5",
+      "ItemCode": "OP00051"
+  },
+  {
+      "Image": "OP00052",
+      "Title": "CD folder 1/24 PATIO 7301 zeleni",
+      "Type": "kom",
+      "Price": "190.00",
+      "FullPrice": "228.00",
+      "SubGroupId": "5",
+      "ItemCode": "OP00052"
+  },
+  {
+      "Image": "OP00053",
+      "Title": "CD folder 1/24 PATIO 7301 žuti",
+      "Type": "kom",
+      "Price": "190.00",
+      "FullPrice": "228.00",
+      "SubGroupId": "5",
+      "ItemCode": "OP00053"
+  },
+  {
+      "Image": "OP00054",
+      "Title": "CD folder 1/24 PATIO 7301 beli",
+      "Type": "kom",
+      "Price": "190.00",
+      "FullPrice": "228.00",
+      "SubGroupId": "5",
+      "ItemCode": "OP00054"
+  },
+  {
+      "Image": "OP00055",
+      "Title": "CD folder 1/24 PATIO 7301 ljubičasti",
+      "Type": "kom",
+      "Price": "190.00",
+      "FullPrice": "228.00",
+      "SubGroupId": "5",
+      "ItemCode": "OP00055"
+  },
+  {
+      "Image": "OP00056",
+      "Title": "CD folder 1/48 PATIO 7302 plavi",
+      "Type": "kom",
+      "Price": "270.00",
+      "FullPrice": "324.00",
+      "SubGroupId": "5",
+      "ItemCode": "OP00056"
+  },
+  {
+      "Image": "OP00057",
+      "Title": "CD folder 1/48 PATIO 7302 zeleni",
+      "Type": "kom",
+      "Price": "270.00",
+      "FullPrice": "324.00",
+      "SubGroupId": "5",
+      "ItemCode": "OP00057"
+  },
+  {
+      "Image": "OP00058",
+      "Title": "CD folder 1/48 PATIO 7302 žuti",
+      "Type": "kom",
+      "Price": "270.00",
+      "FullPrice": "324.00",
+      "SubGroupId": "5",
+      "ItemCode": "OP00058"
+  },
+  {
+      "Image": "OP00059",
+      "Title": "CD folder 1/48 PATIO 7302 roze",
+      "Type": "kom",
+      "Price": "270.00",
+      "FullPrice": "324.00",
+      "SubGroupId": "5",
+      "ItemCode": "OP00059"
+  },
+  {
+    "Image": "OP00060",
+    "Title": "CLIPBOARD A4 PVC",
+    "Type": "kom",
+    "Price": "138.00",
+    "FullPrice": "165.60",
+    "SubGroupId": "6",
+    "ItemCode": "OP00060"
+  }
+]
